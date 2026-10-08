@@ -1,0 +1,1501 @@
+neighbourhood,property_type,bedrooms,bathrooms,shared_bathroom,floor_area_sqm,furnishing,water_source,prepaid_meter,road_type,gated_compound,air_conditioning,parking,wifi_ready,building_age_years,dist_to_knust_km,dist_to_kejetia_km,monthly_rent_ghs
+Ejisu,Self-Contained,1,1,No,30.0,Semi-furnished,Ghana Water,No,Untarred,No,Yes,No,No,,11.7,14.3,770.0
+Oforikrom,Single Room,1,0,Yes,,Semi-furnished,Ghana Water,No,Untarred,No,No,No,Yes,9.0,4.8,6.3,270.0
+Ayeduase,Self-Contained,1,1,No,20.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,4.0,1.1,9.1,1210.0
+Santasi,Chamber and Hall,2,0,Yes,25.1,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,13.0,8.8,5.1,830.0
+Oforikrom,Chamber and Hall,2,0,Yes,25.5,Unfurnished,Ghana Water,No,Tarred,Yes,No,No,No,5.0,3.9,6.3,560.0
+Santasi,Single Room,1,0,Yes,10.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,8.1,4.2,270.0
+Tafo,2-Bedroom Apartment,2,2,No,64.3,Semi-furnished,Borehole,Yes,Tarred,Yes,No,Yes,No,10.0,9.6,4.6,3160.0
+Adiembra,Self-Contained,1,1,No,26.8,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,Yes,17.0,9.1,5.4,1010.0
+Ayeduase,1-Bedroom Apartment,1,1,No,35.5,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,1.0,0.5,8.8,3230.0
+Nhyiaeso,3-Bedroom House,3,2,No,152.7,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,2.0,7.1,4.8,13150.0
+Bantama,Chamber and Hall,2,0,Yes,39.3,Unfurnished,Ghana Water,No,Tarred,Yes,No,No,No,18.0,8.4,2.7,690.0
+Ejisu,2-Bedroom Apartment,2,1,No,68.1,Semi-furnished,Ghana Water,No,Tarred,Yes,No,Yes,Yes,17.0,11.8,13.5,2740.0
+Emena,1-Bedroom Apartment,1,1,No,37.9,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,3.0,7.0,8.2,1260.0
+Danyame,4+ Bedroom House,4,3,No,201.2,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,Yes,8.0,7.1,3.0,19760.0
+Kotei,2-Bedroom Apartment,2,1,No,55.6,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,14.0,1.4,7.6,3710.0
+Kentinkrono,2-Bedroom Apartment,2,1,No,83.6,Unfurnished,Borehole,Yes,Untarred,No,Yes,No,No,6.0,3.9,7.8,4490.0
+Ahodwo,1-Bedroom Apartment,1,1,No,48.6,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,24.0,7.2,2.5,2950.0
+Bantama,Single Room,1,0,Yes,17.4,Semi-furnished,Water tank/Poly tank,No,Untarred,No,No,No,Yes,6.0,9.4,1.0,280.0
+Kwadaso,Chamber and Hall,2,0,Yes,27.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,16.0,9.0,6.2,540.0
+Suame,2-Bedroom Apartment,2,2,No,83.2,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,12.0,9.4,2.1,2980.0
+Patasi,3-Bedroom House,3,3,No,131.6,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,11.0,8.2,3.0,7380.0
+Ayigya,1-Bedroom Apartment,1,1,No,53.6,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,8.0,2.2,7.0,1780.0
+Santasi,Single Room,1,0,Yes,,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,12.0,9.3,6.4,340.0
+Danyame,1-Bedroom Apartment,1,1,No,48.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,9.0,4.6,3.5,3280.0
+Bantama,Single Room,1,0,Yes,18.0,Semi-furnished,Ghana Water,No,Tarred,No,No,No,Yes,5.0,8.3,2.4,340.0
+Kwadaso,3-Bedroom House,3,3,No,106.7,Unfurnished,Water tank/Poly tank,No,Untarred,No,No,Yes,No,16.0,7.5,5.1,3530.0
+Asokwa,Chamber and Hall,2,1,No,35.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,5.0,7.6,4.8,890.0
+Oforikrom,Single Room,1,0,Yes,17.6,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,No,24.0,3.6,7.1,220.0
+Kwadaso,1-Bedroom Apartment,1,1,No,43.2,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,3.0,7.8,5.3,1770.0
+Bomso,2-Bedroom Apartment,2,2,No,74.2,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,4.0,1.5,7.4,3960.0
+Ahodwo,Chamber and Hall,2,0,Yes,30.0,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,2.0,6.7,4.5,1080.0
+Bomso,2-Bedroom Apartment,2,2,No,79.7,Semi-furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,3.0,1.9,7.8,4510.0
+Ahodwo,2-Bedroom Apartment,2,2,No,70.2,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,Yes,No,0.0,6.0,2.5,10150.0
+Atonsu,2-Bedroom Apartment,2,1,No,81.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,6.8,4.5,2630.0
+Tafo,1-Bedroom Apartment,1,1,No,38.6,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,9.0,10.1,4.6,1210.0
+Ayigya,2-Bedroom Apartment,2,2,No,86.6,Furnished,Borehole,No,Tarred,No,No,Yes,No,8.0,1.0,6.7,4100.0
+Ayigya,4+ Bedroom House,5,5,No,,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,Yes,10.0,2.1,6.6,12760.0
+Suame,2-Bedroom Apartment,2,1,No,83.0,Unfurnished,Borehole,No,Tarred,No,No,Yes,No,5.0,8.4,1.6,3010.0
+Suame,Chamber and Hall,2,0,Yes,33.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,8.0,8.9,3.4,460.0
+Ayeduase,3-Bedroom House,3,2,No,124.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,1.0,0.5,8.8,6800.0
+Kentinkrono,Self-Contained,1,1,No,30.7,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,27.0,4.2,7.9,1270.0
+Ayigya,4+ Bedroom House,5,5,No,288.5,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,13.0,1.5,7.0,11430.0
+Ahodwo,Self-Contained,1,1,No,25.2,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,6.0,7.0,3.4,1730.0
+Nhyiaeso,1-Bedroom Apartment,1,1,No,44.8,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,No,No,3.0,7.7,4.0,3640.0
+Kotei,2-Bedroom Apartment,2,1,No,60.3,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,No,No,3.0,2.6,9.1,4140.0
+Santasi,2-Bedroom Apartment,2,1,No,84.9,Furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,10.0,9.4,5.4,5030.0
+Nhyiaeso,Self-Contained,1,1,No,18.3,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,Yes,8.0,7.7,3.5,1440.0
+Nhyiaeso,Single Room,1,0,Yes,17.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,10.0,6.4,3.4,710.0
+Kentinkrono,3-Bedroom House,3,3,No,107.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,6.0,4.2,7.7,5070.0
+Suame,Self-Contained,1,1,No,27.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,1.0,9.0,2.9,1030.0
+Adiembra,2-Bedroom Apartment,2,1,No,74.9,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,7.0,9.4,6.1,4850.0
+Kwadaso,1-Bedroom Apartment,1,1,No,43.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,9.0,8.4,4.9,1480.0
+Ejisu,3-Bedroom House,3,2,No,109.5,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,1.0,10.9,13.9,4350.0
+Tafo,4+ Bedroom House,6,6,No,317.0,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,7.0,10.6,5.1,9270.0
+Bomso,Self-Contained,1,1,No,23.7,Furnished,Borehole,Yes,Untarred,Yes,No,No,Yes,3.0,2.2,7.3,1770.0
+Adiembra,3-Bedroom House,3,2,No,151.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,6.0,9.4,6.0,5210.0
+Patasi,Self-Contained,1,1,No,,Unfurnished,Borehole,Yes,Tarred,Yes,Yes,No,No,10.0,8.2,2.8,1370.0
+Emena,3-Bedroom House,3,3,No,141.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,19.0,5.9,8.9,5450.0
+Emena,Chamber and Hall,2,0,Yes,25.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,6.8,9.3,360.0
+Santasi,2-Bedroom Apartment,2,1,No,84.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,21.0,8.9,5.2,3460.0
+Ayigya,3-Bedroom House,3,3,No,119.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,2.0,1.7,6.5,5620.0
+Atonsu,Single Room,1,0,Yes,12.2,Unfurnished,Borehole,No,Tarred,No,No,No,No,7.0,8.1,5.7,230.0
+Atonsu,Single Room,1,1,No,13.2,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,4.0,7.2,5.3,210.0
+Emena,2-Bedroom Apartment,2,2,No,81.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,17.0,7.2,8.6,2360.0
+Bomso,2-Bedroom Apartment,2,1,No,84.4,Semi-furnished,Ghana Water,Yes,Untarred,Yes,Yes,Yes,No,4.0,2.1,6.9,4550.0
+Kentinkrono,3-Bedroom House,3,2,No,136.4,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,4.3,8.6,8150.0
+Kotei,Self-Contained,1,1,No,18.7,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,,2.4,8.6,1300.0
+Danyame,Single Room,1,0,Yes,14.3,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,6.0,5.5,3.3,390.0
+Danyame,Self-Contained,1,1,No,,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,7.0,6.3,3.3,2170.0
+Bantama,Self-Contained,1,1,No,31.9,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,2.0,8.3,1.6,940.0
+Oforikrom,3-Bedroom House,3,2,No,139.7,Unfurnished,Borehole,Yes,Tarred,No,No,No,Yes,9.0,2.7,7.0,5200.0
+Ahodwo,Single Room,1,1,No,11.7,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,22.0,6.4,3.9,500.0
+Asokwa,Self-Contained,1,1,No,20.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,5.0,7.6,2.9,1050.0
+Danyame,1-Bedroom Apartment,1,1,No,37.4,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,Yes,No,No,,6.3,3.2,3460.0
+Ayigya,Self-Contained,1,1,No,31.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,1.7,8.1,1500.0
+Tafo,4+ Bedroom House,6,5,No,206.0,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,5.0,10.1,6.0,7150.0
+Ejisu,Chamber and Hall,2,1,No,37.4,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,4.0,11.2,13.9,770.0
+Suame,Self-Contained,1,1,No,24.5,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,5.0,9.2,3.5,660.0
+Suame,Chamber and Hall,2,1,No,33.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,0.0,8.3,3.5,490.0
+Bomso,Chamber and Hall,2,0,Yes,38.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,13.0,1.0,6.9,970.0
+Ayeduase,Single Room,1,0,Yes,17.6,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,10.0,0.4,10.4,540.0
+Adiembra,Chamber and Hall,2,0,Yes,38.5,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,5.0,9.3,6.5,830.0
+Bomso,Chamber and Hall,2,1,No,29.3,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,9.0,2.1,7.2,860.0
+Adiembra,Self-Contained,1,1,No,24.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,18.0,9.8,4.9,1080.0
+Asokwa,1-Bedroom Apartment,1,1,No,53.7,Furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,11.0,8.3,4.2,3690.0
+Suame,4+ Bedroom House,5,3,No,209.1,Unfurnished,Ghana Water,No,Untarred,No,No,Yes,No,8.0,9.5,3.6,6760.0
+Santasi,4+ Bedroom House,6,5,No,168.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,2.0,8.9,5.2,14810.0
+Kotei,3-Bedroom House,3,2,No,123.3,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,13.0,2.0,8.8,6550.0
+Ayigya,2-Bedroom Apartment,2,1,No,71.1,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,2.0,3.0,7.8,3350.0
+Suame,2-Bedroom Apartment,2,1,No,79.8,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,No,5.0,9.2,2.3,3120.0
+Kotei,3-Bedroom House,3,2,No,106.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,10.0,1.3,7.5,5580.0
+Tafo,Self-Contained,1,1,No,27.0,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,6.0,10.4,5.8,990.0
+Oforikrom,3-Bedroom House,3,2,No,97.6,Semi-furnished,Water tank/Poly tank,No,Untarred,No,No,Yes,Yes,17.0,2.4,6.0,4500.0
+Santasi,Chamber and Hall,2,1,No,25.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,8.0,8.3,4.4,760.0
+Patasi,Chamber and Hall,2,0,Yes,31.4,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,,8.7,2.9,740.0
+Danyame,Self-Contained,1,1,No,28.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,6.2,3.6,1840.0
+Adiembra,2-Bedroom Apartment,2,2,No,58.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,9.1,6.3,3210.0
+Suame,Self-Contained,1,1,No,18.5,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,9.0,8.3,2.5,710.0
+Santasi,2-Bedroom Apartment,2,2,No,87.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,Yes,2.0,8.9,5.7,4480.0
+Bantama,3-Bedroom House,3,3,No,107.3,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,7.0,9.2,2.1,4620.0
+Suame,Chamber and Hall,2,0,Yes,36.8,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,6.0,8.4,2.7,750.0
+Ahodwo,Self-Contained,1,1,No,30.1,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,8.0,7.2,2.7,3240.0
+Kentinkrono,Single Room,1,0,Yes,17.7,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,4.0,4.4,7.9,450.0
+Tafo,4+ Bedroom House,4,3,No,206.5,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,No,,10.0,5.4,8030.0
+Ayigya,2-Bedroom Apartment,2,2,No,70.7,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,4.0,2.2,7.2,3570.0
+Atonsu,3-Bedroom House,3,3,No,110.7,Unfurnished,Borehole,Yes,Untarred,No,Yes,No,No,3.0,7.4,4.3,5570.0
+Kotei,2-Bedroom Apartment,2,2,No,63.3,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,3.0,3.0,8.6,2580.0
+Tafo,Self-Contained,1,1,No,24.6,Furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,1.0,9.8,5.4,1090.0
+Santasi,1-Bedroom Apartment,1,1,No,41.5,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,1.0,9.2,5.0,2390.0
+Oforikrom,4+ Bedroom House,4,4,No,239.6,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,3.0,3.9,6.5,11170.0
+Oforikrom,1-Bedroom Apartment,1,1,No,45.1,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,2.0,3.5,5.8,2140.0
+Bomso,Chamber and Hall,2,0,Yes,34.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,3.0,2.6,7.2,830.0
+Santasi,3-Bedroom House,3,2,No,128.5,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,17.0,9.4,5.9,6650.0
+Nhyiaeso,Self-Contained,1,1,No,27.0,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,Yes,No,No,6.0,6.6,3.8,2480.0
+Bantama,4+ Bedroom House,6,6,No,184.2,Unfurnished,Water tank/Poly tank,No,Tarred,No,No,No,No,10.0,9.2,0.7,8210.0
+Oforikrom,Single Room,1,0,Yes,15.9,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,12.0,3.3,6.0,420.0
+Asokwa,3-Bedroom House,3,3,No,116.5,Unfurnished,Borehole,No,Tarred,No,No,Yes,Yes,4.0,7.5,5.7,6640.0
+Bomso,Self-Contained,1,1,No,29.8,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,6.0,1.6,7.3,1670.0
+Santasi,Self-Contained,1,1,No,23.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,18.0,9.1,4.7,1080.0
+Ayigya,1-Bedroom Apartment,1,1,No,,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,,2.2,7.4,1860.0
+Emena,Single Room,1,0,Yes,13.6,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,20.0,6.5,10.0,190.0
+Ayigya,Single Room,1,1,No,13.4,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,8.0,2.8,7.2,330.0
+Nhyiaeso,Self-Contained,1,1,No,20.8,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,2.0,7.9,3.8,2760.0
+Bomso,Single Room,1,0,Yes,14.0,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,2.0,2.2,7.2,290.0
+Santasi,1-Bedroom Apartment,1,1,No,35.3,Furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,2.0,9.0,3.7,2420.0
+Danyame,Single Room,1,0,Yes,11.6,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,8.0,6.1,4.0,720.0
+Tafo,Single Room,1,0,Yes,18.0,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,8.0,10.3,6.0,260.0
+Ayeduase,Self-Contained,1,1,No,30.3,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,8.0,0.7,9.3,1770.0
+Kentinkrono,4+ Bedroom House,4,4,No,314.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,3.4,8.6,12620.0
+Ayigya,Chamber and Hall,2,0,Yes,34.9,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,10.0,2.4,7.9,1330.0
+Danyame,4+ Bedroom House,6,5,No,311.1,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,Yes,5.0,6.1,2.4,25880.0
+Ejisu,3-Bedroom House,3,2,No,99.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,6.0,10.9,13.5,3940.0
+Ejisu,Self-Contained,1,1,No,26.2,Furnished,Ghana Water,No,Untarred,Yes,No,No,No,16.0,10.5,14.0,870.0
+Ayigya,2-Bedroom Apartment,2,2,No,85.4,Unfurnished,Borehole,Yes,Untarred,Yes,No,Yes,No,9.0,1.4,6.7,4050.0
+Asokwa,Single Room,1,0,Yes,17.1,Unfurnished,Ghana Water,No,Untarred,No,No,No,Yes,2.0,8.0,5.2,280.0
+Ejisu,Self-Contained,1,1,No,24.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,8.0,11.3,14.5,780.0
+Ejisu,Self-Contained,1,1,No,30.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,5.0,11.7,14.0,1060.0
+Santasi,Self-Contained,1,1,No,27.7,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,15.0,10.5,4.5,1480.0
+Nhyiaeso,Single Room,1,0,Yes,16.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,7.5,3.8,580.0
+Kentinkrono,Self-Contained,1,1,No,23.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,17.0,4.6,7.5,920.0
+Santasi,Single Room,1,0,Yes,10.4,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,12.0,8.9,4.6,450.0
+Oforikrom,1-Bedroom Apartment,1,1,No,50.8,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,18.0,3.3,6.8,3450.0
+Danyame,Chamber and Hall,2,0,Yes,32.9,Furnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,4.0,5.9,3.3,1690.0
+Oforikrom,Self-Contained,1,1,No,27.8,Furnished,Borehole,Yes,Tarred,No,No,No,Yes,9.0,2.8,6.2,1710.0
+Oforikrom,1-Bedroom Apartment,1,1,No,48.1,Furnished,Borehole,Yes,Untarred,No,No,No,Yes,5.0,3.2,6.0,3060.0
+Asokwa,2-Bedroom Apartment,2,2,No,84.0,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,8.0,9.3,4.2,3770.0
+Kentinkrono,Single Room,1,1,No,12.7,Unfurnished,Borehole,Yes,Tarred,No,No,No,Yes,6.0,4.3,7.4,460.0
+Bantama,Self-Contained,1,1,No,18.5,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,8.0,8.1,1.4,800.0
+Kentinkrono,3-Bedroom House,3,2,No,100.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,11.0,4.0,6.8,5540.0
+Atonsu,Single Room,1,0,Yes,17.7,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,8.0,4.6,350.0
+Bomso,1-Bedroom Apartment,1,1,No,45.0,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,Yes,15.0,2.9,7.2,2530.0
+Ayeduase,Single Room,1,0,Yes,10.8,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,20.0,1.3,8.9,330.0
+Ahodwo,Chamber and Hall,2,0,Yes,25.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,3.0,6.0,3.4,1120.0
+Patasi,Self-Contained,1,1,No,27.3,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,7.0,6.7,3.2,1000.0
+Ayigya,Chamber and Hall,2,1,No,37.9,Furnished,Water tank/Poly tank,No,Tarred,No,No,No,No,1.0,3.4,7.9,1380.0
+Suame,1-Bedroom Apartment,1,1,No,45.4,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,10.0,9.0,3.8,1220.0
+Atonsu,3-Bedroom House,3,2,No,,Semi-furnished,Borehole,Yes,Untarred,No,No,Yes,No,17.0,7.6,5.7,5270.0
+Bantama,3-Bedroom House,3,3,No,94.9,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,4.0,8.1,2.1,5020.0
+Santasi,1-Bedroom Apartment,1,1,No,,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,15.0,9.4,5.7,2060.0
+Ayeduase,3-Bedroom House,3,3,No,138.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,27.0,0.3,9.8,5290.0
+Ayigya,4+ Bedroom House,5,4,No,244.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,6.0,1.6,7.9,15000.0
+Kentinkrono,Self-Contained,1,1,No,20.5,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,4.0,4.1,6.9,1270.0
+Asokwa,2-Bedroom Apartment,2,1,No,84.3,Furnished,Borehole,No,Untarred,No,No,No,Yes,3.0,8.7,4.6,4180.0
+Suame,4+ Bedroom House,4,4,No,177.5,Furnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,,9.1,3.8,7280.0
+Atonsu,2-Bedroom Apartment,2,2,No,73.9,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,5.0,7.4,6.5,3320.0
+Ahodwo,1-Bedroom Apartment,1,1,No,37.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,9.0,6.0,3.1,4240.0
+Kotei,4+ Bedroom House,6,4,No,265.5,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,12.0,2.8,8.4,16050.0
+Kentinkrono,Self-Contained,1,1,No,18.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,8.0,4.0,7.7,1120.0
+Bomso,2-Bedroom Apartment,2,2,No,87.9,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,Yes,13.0,1.4,6.5,4190.0
+Kwadaso,Self-Contained,1,1,No,18.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,2.0,8.5,6.0,780.0
+Nhyiaeso,4+ Bedroom House,4,3,No,168.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,10.0,7.8,3.6,20930.0
+Ayeduase,2-Bedroom Apartment,2,1,No,88.9,Furnished,Borehole,Yes,Tarred,No,No,Yes,Yes,17.0,1.1,8.5,6030.0
+Nhyiaeso,Chamber and Hall,2,0,Yes,35.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,7.0,6.4,3.1,1180.0
+Kentinkrono,Single Room,1,0,Yes,17.9,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,4.1,7.8,400.0
+Bomso,Single Room,1,0,Yes,10.1,Furnished,Borehole,No,Tarred,No,No,No,Yes,5.0,2.6,6.7,400.0
+Santasi,4+ Bedroom House,6,6,No,289.3,Semi-furnished,Borehole,No,Untarred,No,Yes,Yes,No,13.0,9.1,4.2,16220.0
+Bantama,Chamber and Hall,2,0,Yes,33.2,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,No,1.0,8.3,2.0,730.0
+Ahodwo,2-Bedroom Apartment,2,2,No,65.3,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,Yes,No,6.0,5.7,2.4,8420.0
+Santasi,Chamber and Hall,2,0,Yes,37.9,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,7.0,9.0,5.0,870.0
+Ejisu,Self-Contained,1,1,No,28.5,Furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,8.0,10.7,14.1,1200.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,43.8,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,5.0,4.4,9.2,2070.0
+Tafo,Self-Contained,1,1,No,26.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,5.0,10.6,5.7,620.0
+Patasi,Self-Contained,1,1,No,18.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,7.3,3.2,910.0
+Tafo,Chamber and Hall,2,0,Yes,28.8,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,10.0,10.9,6.1,460.0
+Oforikrom,Single Room,1,1,No,15.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,6.0,3.7,6.8,410.0
+Ahodwo,3-Bedroom House,3,3,No,134.8,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,Yes,Yes,3.0,6.7,2.7,26610.0
+Emena,4+ Bedroom House,5,5,No,174.2,Unfurnished,Borehole,Yes,Tarred,Yes,No,No,No,11.0,6.2,9.5,10720.0
+Nhyiaeso,1-Bedroom Apartment,1,1,No,53.7,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,12.0,7.4,3.0,3400.0
+Atonsu,Self-Contained,1,1,No,25.8,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,4.0,7.1,4.7,710.0
+Ayeduase,2-Bedroom Apartment,2,2,No,82.7,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,7.0,1.1,9.2,3720.0
+Asokwa,2-Bedroom Apartment,2,2,No,71.9,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,4.0,7.5,4.1,3760.0
+Danyame,1-Bedroom Apartment,1,1,No,,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,Yes,,5.6,3.8,4120.0
+Ahodwo,2-Bedroom Apartment,2,2,No,57.5,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,14.0,6.7,3.7,5110.0
+Bomso,Single Room,1,0,Yes,15.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,10.0,2.7,8.3,350.0
+Patasi,2-Bedroom Apartment,2,2,No,72.4,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,Yes,5.0,7.4,3.5,3280.0
+Oforikrom,1-Bedroom Apartment,1,1,No,40.8,Unfurnished,Borehole,Yes,Tarred,No,Yes,No,No,4.0,4.0,6.6,2000.0
+Ayigya,Chamber and Hall,2,0,Yes,39.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,19.0,2.2,5.9,690.0
+Atonsu,2-Bedroom Apartment,2,2,No,75.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,20.0,7.2,5.8,2670.0
+Oforikrom,1-Bedroom Apartment,1,1,No,41.3,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,10.0,3.2,6.6,1780.0
+Kotei,4+ Bedroom House,4,4,No,297.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,14.0,2.4,8.1,14690.0
+Ahodwo,Single Room,1,0,Yes,15.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,7.0,6.8,3.0,470.0
+Ahodwo,Chamber and Hall,2,0,Yes,28.5,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,10.0,7.0,3.3,1250.0
+Oforikrom,1-Bedroom Apartment,1,1,No,54.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,Yes,,2.7,6.5,2120.0
+Atonsu,2-Bedroom Apartment,2,2,No,66.5,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,9.0,7.1,5.0,3420.0
+Ejisu,2-Bedroom Apartment,2,2,No,76.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,1.0,11.2,14.5,2740.0
+Adiembra,3-Bedroom House,3,3,No,129.4,Semi-furnished,Borehole,Yes,Tarred,No,No,Yes,No,1.0,9.3,5.3,7350.0
+Ayeduase,3-Bedroom House,3,3,No,119.0,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,12.0,1.8,8.8,6190.0
+Kwadaso,Chamber and Hall,2,0,Yes,33.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,5.0,7.7,5.5,590.0
+Santasi,2-Bedroom Apartment,2,1,No,82.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,2.0,10.2,5.8,3140.0
+Suame,1-Bedroom Apartment,1,1,No,41.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,7.0,9.5,3.6,1310.0
+Suame,Self-Contained,1,1,No,29.7,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,7.0,9.6,2.9,970.0
+Ayeduase,2-Bedroom Apartment,2,2,No,87.0,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,14.0,0.9,9.2,3940.0
+Bomso,Single Room,1,0,Yes,14.0,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,2.0,2.9,6.9,600.0
+Santasi,Self-Contained,1,1,No,31.5,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,6.0,10.0,5.6,1300.0
+Ayeduase,1-Bedroom Apartment,1,1,No,36.2,Furnished,Ghana Water,Yes,Tarred,No,Yes,No,Yes,11.0,0.3,8.9,4560.0
+Suame,Chamber and Hall,2,0,Yes,,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,9.0,9.3,2.2,530.0
+Asokwa,Single Room,1,0,Yes,,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,10.0,9.5,4.2,300.0
+Ayigya,Chamber and Hall,2,0,Yes,26.4,Furnished,Borehole,Yes,Tarred,No,No,No,No,11.0,1.7,7.2,820.0
+Oforikrom,2-Bedroom Apartment,2,1,No,57.1,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,15.0,3.9,7.2,1950.0
+Kwadaso,1-Bedroom Apartment,1,1,No,52.0,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,6.0,8.9,5.3,1870.0
+Kentinkrono,2-Bedroom Apartment,2,2,No,82.9,Unfurnished,Ghana Water,No,Tarred,Yes,No,Yes,No,9.0,4.2,7.9,3450.0
+Ejisu,Self-Contained,1,1,No,22.8,Unfurnished,Ghana Water,No,Tarred,No,No,Yes,No,11.0,11.0,13.6,760.0
+Kwadaso,4+ Bedroom House,4,4,No,313.4,Semi-furnished,Borehole,Yes,Untarred,Yes,No,Yes,No,4.0,7.9,4.9,12240.0
+Santasi,Self-Contained,1,1,No,27.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,11.0,9.0,4.5,1200.0
+Santasi,Single Room,1,0,Yes,11.3,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,9.0,8.6,5.4,540.0
+Ejisu,1-Bedroom Apartment,1,1,No,45.8,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,33.0,10.0,14.5,1150.0
+Atonsu,Single Room,1,0,Yes,16.4,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,,8.0,5.2,320.0
+Ayeduase,1-Bedroom Apartment,1,1,No,39.4,Furnished,Ghana Water,Yes,Tarred,No,Yes,No,Yes,3.0,1.3,9.0,3110.0
+Kotei,Self-Contained,1,1,No,20.9,Unfurnished,Ghana Water,No,Tarred,Yes,No,Yes,Yes,18.0,2.9,7.6,980.0
+Emena,3-Bedroom House,3,2,No,,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,7.0,6.7,8.8,5190.0
+Ayigya,Self-Contained,1,1,No,27.4,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,6.0,1.8,8.0,1750.0
+Kotei,Chamber and Hall,2,0,Yes,38.0,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,2.0,2.7,9.6,1220.0
+Bomso,2-Bedroom Apartment,2,1,No,72.4,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,Yes,7.0,2.2,6.3,3650.0
+Adiembra,Single Room,1,1,No,14.7,Furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,2.0,9.3,5.3,410.0
+Patasi,Single Room,1,0,Yes,14.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,2.0,6.6,2.4,310.0
+Kotei,4+ Bedroom House,5,4,No,316.5,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,Yes,3.0,3.3,10.0,14820.0
+Asokwa,Self-Contained,1,1,No,20.1,Unfurnished,Borehole,Yes,Tarred,No,Yes,No,No,7.0,8.5,3.6,1030.0
+Asokwa,Chamber and Hall,2,0,Yes,,Furnished,Borehole,Yes,Tarred,No,No,No,No,6.0,8.1,4.9,1250.0
+Ayeduase,3-Bedroom House,3,3,No,121.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,4.0,0.6,8.5,8610.0
+Suame,Chamber and Hall,2,0,Yes,39.3,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,20.0,9.2,3.2,600.0
+Kotei,Chamber and Hall,2,0,Yes,25.4,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,9.0,2.3,8.1,840.0
+Santasi,Single Room,1,1,No,16.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,,9.7,5.2,410.0
+Adiembra,2-Bedroom Apartment,2,2,No,87.0,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,3.0,9.1,6.4,3420.0
+Ayeduase,4+ Bedroom House,6,5,No,175.9,Unfurnished,Borehole,No,Untarred,No,No,Yes,No,6.0,0.3,8.4,9410.0
+Ayeduase,1-Bedroom Apartment,1,1,No,35.7,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,5.0,1.4,9.4,2360.0
+Tafo,Single Room,1,0,Yes,13.6,Unfurnished,Ghana Water,No,Untarred,No,No,Yes,No,6.0,9.3,5.0,130.0
+Bomso,2-Bedroom Apartment,2,2,No,74.4,Furnished,Borehole,No,Untarred,Yes,No,Yes,No,12.0,2.0,6.5,3630.0
+Ahodwo,2-Bedroom Apartment,2,2,No,74.3,Unfurnished,Borehole,Yes,Untarred,Yes,Yes,Yes,No,0.0,7.9,3.0,9940.0
+Ahodwo,Self-Contained,1,1,No,20.8,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,No,Yes,3.0,7.4,2.9,2990.0
+Santasi,Chamber and Hall,2,0,Yes,38.1,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,Yes,9.0,11.1,5.2,890.0
+Bantama,Self-Contained,1,1,No,25.1,Semi-furnished,Ghana Water,No,Tarred,No,No,No,Yes,5.0,9.3,3.1,1020.0
+Kotei,4+ Bedroom House,6,6,No,313.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,1.9,8.2,15620.0
+Ayeduase,3-Bedroom House,3,3,No,110.2,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,14.0,1.3,8.4,7020.0
+Bantama,Self-Contained,1,1,No,24.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,7.0,9.2,2.3,830.0
+Ayigya,2-Bedroom Apartment,2,2,No,64.1,Unfurnished,Borehole,No,Untarred,No,No,No,No,2.0,2.3,7.7,2950.0
+Suame,4+ Bedroom House,4,4,No,167.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,Yes,No,7.0,8.3,2.5,7930.0
+Patasi,2-Bedroom Apartment,2,2,No,85.7,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,1.0,8.9,2.8,3630.0
+Emena,2-Bedroom Apartment,2,2,No,59.1,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,9.0,6.7,8.8,2740.0
+Ayigya,Self-Contained,1,1,No,21.2,Semi-furnished,Water tank/Poly tank,No,Tarred,Yes,No,No,Yes,6.0,1.7,6.6,1180.0
+Santasi,2-Bedroom Apartment,2,2,No,60.5,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,9.0,9.2,3.6,4120.0
+Kentinkrono,2-Bedroom Apartment,2,1,No,73.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,2.0,3.4,7.7,4220.0
+Tafo,3-Bedroom House,3,3,No,116.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,Yes,Yes,No,6.0,10.7,5.5,5280.0
+Oforikrom,Single Room,1,1,No,16.7,Semi-furnished,Borehole,Yes,Tarred,Yes,No,Yes,No,12.0,3.2,7.7,450.0
+Santasi,Chamber and Hall,2,1,No,34.9,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,20.0,7.7,4.1,850.0
+Bantama,Chamber and Hall,2,0,Yes,38.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,8.0,7.9,1.9,580.0
+Ejisu,Single Room,1,0,Yes,13.6,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,10.0,14.9,190.0
+Kotei,Chamber and Hall,2,0,Yes,,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,3.0,2.6,7.7,660.0
+Ayigya,1-Bedroom Apartment,1,1,No,36.8,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,No,No,3.0,0.7,7.5,3310.0
+Bomso,Single Room,1,0,Yes,15.5,Semi-furnished,Ghana Water,Yes,Untarred,No,Yes,No,No,4.0,1.7,7.1,430.0
+Ejisu,Single Room,1,0,Yes,14.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,13.0,11.3,14.2,230.0
+Emena,2-Bedroom Apartment,2,2,No,81.9,Furnished,Borehole,No,Tarred,No,No,Yes,No,20.0,6.1,8.4,3820.0
+Kwadaso,4+ Bedroom House,5,5,No,260.8,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,,7.8,5.4,14240.0
+Kotei,1-Bedroom Apartment,1,1,No,39.3,Furnished,Borehole,No,Tarred,No,No,No,Yes,6.0,3.1,7.8,2570.0
+Atonsu,Single Room,1,0,Yes,12.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,11.0,7.7,3.9,240.0
+Bantama,Single Room,1,0,Yes,11.0,Furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,19.0,8.8,3.0,230.0
+Suame,Chamber and Hall,2,0,Yes,27.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,3.0,8.9,4.0,570.0
+Kotei,3-Bedroom House,3,3,No,141.0,Unfurnished,Borehole,No,Tarred,No,No,Yes,No,10.0,3.4,7.5,5780.0
+Bomso,Single Room,1,0,Yes,13.4,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,12.0,2.0,7.3,290.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,36.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,32.0,3.3,8.0,1480.0
+Asokwa,Chamber and Hall,2,0,Yes,36.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,2.0,7.4,4.2,690.0
+Emena,Single Room,1,0,Yes,17.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,10.0,6.6,8.9,250.0
+Nhyiaeso,Single Room,1,0,Yes,13.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,,7.4,3.2,500.0
+Nhyiaeso,Chamber and Hall,2,0,Yes,39.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,4.0,6.6,3.4,1190.0
+Kotei,1-Bedroom Apartment,1,1,No,45.4,Furnished,Ghana Water,No,Tarred,Yes,No,No,No,5.0,2.7,8.9,3030.0
+Ayeduase,Self-Contained,1,1,No,20.5,Semi-furnished,Borehole,No,Tarred,No,No,No,Yes,5.0,1.1,7.4,1300.0
+Suame,Self-Contained,1,1,No,21.8,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,0.0,9.0,2.5,940.0
+Kotei,1-Bedroom Apartment,1,1,No,35.5,Unfurnished,Ghana Water,No,Tarred,No,No,No,Yes,1.0,2.7,8.8,1370.0
+Atonsu,1-Bedroom Apartment,1,1,No,45.4,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,9.0,8.1,4.1,2080.0
+Ayeduase,4+ Bedroom House,6,4,No,188.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,3.0,1.0,8.1,10200.0
+Suame,Single Room,1,0,Yes,15.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,9.0,3.3,210.0
+Kotei,Self-Contained,1,1,No,21.0,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,8.0,3.6,8.4,1110.0
+Suame,Single Room,1,1,No,14.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,4.0,8.6,1.8,210.0
+Adiembra,Single Room,1,0,Yes,11.3,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,6.0,10.7,4.9,210.0
+Kotei,Chamber and Hall,2,1,No,37.2,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,,2.6,7.8,1380.0
+Ayeduase,1-Bedroom Apartment,1,1,No,39.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,6.0,0.8,9.1,2350.0
+Ayeduase,Chamber and Hall,2,0,Yes,33.0,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,2.3,9.7,1000.0
+Kwadaso,Single Room,1,1,No,10.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,8.5,5.6,200.0
+Emena,Chamber and Hall,2,0,Yes,37.5,Furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,8.0,6.9,8.4,730.0
+Bomso,Single Room,1,0,Yes,17.4,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,,3.2,7.0,350.0
+Adiembra,Chamber and Hall,2,0,Yes,33.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,6.0,10.1,4.4,610.0
+Atonsu,2-Bedroom Apartment,2,2,No,84.0,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,9.0,8.0,4.1,2900.0
+Tafo,Single Room,1,0,Yes,17.4,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,9.0,5.8,200.0
+Bomso,Chamber and Hall,2,0,Yes,28.3,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,4.0,1.8,6.4,1090.0
+Ayigya,3-Bedroom House,3,3,No,109.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,4.0,1.3,7.5,5440.0
+Atonsu,2-Bedroom Apartment,2,2,No,67.8,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,Yes,Yes,4.0,7.5,4.8,2980.0
+Ayeduase,Single Room,1,0,Yes,15.4,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,5.0,2.1,8.8,450.0
+Ejisu,1-Bedroom Apartment,1,1,No,40.1,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,Yes,,10.1,15.2,1680.0
+Ayeduase,Self-Contained,1,1,No,23.3,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,14.0,1.0,8.5,1460.0
+Bantama,3-Bedroom House,3,2,No,118.4,Semi-furnished,Borehole,Yes,Tarred,No,No,Yes,No,11.0,7.6,2.3,5470.0
+Asokwa,Single Room,1,0,Yes,,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,9.0,7.7,4.8,300.0
+Ayeduase,Single Room,1,1,No,12.6,Furnished,Ghana Water,No,Untarred,No,No,No,No,16.0,0.5,8.6,510.0
+Bomso,4+ Bedroom House,4,3,No,184.0,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,5.0,3.2,6.9,12080.0
+Oforikrom,1-Bedroom Apartment,1,1,No,49.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,7.0,2.9,6.6,1700.0
+Tafo,Self-Contained,1,1,No,22.6,Unfurnished,Borehole,No,Tarred,Yes,Yes,No,No,2.0,9.9,4.6,850.0
+Santasi,Self-Contained,1,1,No,28.9,Semi-furnished,Borehole,Yes,Tarred,No,Yes,No,No,11.0,7.8,5.8,1750.0
+Asokwa,3-Bedroom House,3,3,No,142.7,Semi-furnished,Water tank/Poly tank,No,Tarred,No,No,No,Yes,9.0,7.9,5.0,7050.0
+Bantama,3-Bedroom House,3,2,No,112.1,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,12.0,8.8,1.8,4290.0
+Ejisu,Single Room,1,0,Yes,,Furnished,Borehole,Yes,Untarred,No,No,No,No,14.0,11.4,13.6,220.0
+Ayeduase,Single Room,1,0,Yes,14.4,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,13.0,1.3,8.5,330.0
+Ayeduase,Self-Contained,1,1,No,24.9,Furnished,Ghana Water,No,Untarred,No,No,No,No,18.0,1.1,8.8,1770.0
+Danyame,3-Bedroom House,3,3,No,104.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,2.0,5.5,3.5,8470.0
+Ejisu,Chamber and Hall,2,0,Yes,,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,9.0,11.1,14.1,680.0
+Danyame,1-Bedroom Apartment,1,1,No,36.3,Furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,6.0,6.5,2.3,5070.0
+Tafo,3-Bedroom House,3,2,No,,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,,10.0,5.1,3920.0
+Danyame,1-Bedroom Apartment,1,1,No,52.5,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,18.0,5.2,3.3,2750.0
+Santasi,1-Bedroom Apartment,1,1,No,43.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,15.0,9.7,4.8,2170.0
+Suame,2-Bedroom Apartment,2,2,No,65.4,Unfurnished,Ghana Water,No,Untarred,No,No,Yes,No,16.0,9.4,3.6,1820.0
+Ahodwo,Self-Contained,1,1,No,20.5,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,Yes,No,No,2.0,6.3,3.6,2440.0
+Santasi,Chamber and Hall,2,0,Yes,38.2,Unfurnished,Ghana Water,No,Tarred,Yes,No,No,No,7.0,9.1,4.9,810.0
+Adiembra,4+ Bedroom House,5,4,No,246.7,Unfurnished,Borehole,Yes,Untarred,No,Yes,Yes,No,3.0,10.0,6.9,12540.0
+Ahodwo,3-Bedroom House,3,3,No,153.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,7.0,7.5,3.5,17320.0
+Ahodwo,Self-Contained,1,1,No,22.4,Semi-furnished,Borehole,Yes,Untarred,No,No,Yes,No,11.0,6.7,1.7,1710.0
+Atonsu,Chamber and Hall,2,0,Yes,35.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,7.3,5.0,670.0
+Kwadaso,Self-Contained,1,1,No,22.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,7.0,8.4,5.5,1000.0
+Atonsu,3-Bedroom House,3,3,No,133.1,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,13.0,6.9,5.4,4910.0
+Ahodwo,Chamber and Hall,2,1,No,36.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,2.0,7.3,3.8,1050.0
+Ejisu,1-Bedroom Apartment,1,1,No,43.3,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,14.0,11.3,14.9,1560.0
+Danyame,2-Bedroom Apartment,2,1,No,57.3,Furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,Yes,No,6.0,6.2,3.3,8980.0
+Kwadaso,2-Bedroom Apartment,2,2,No,87.0,Semi-furnished,Borehole,Yes,Untarred,No,Yes,Yes,No,17.0,7.8,5.4,3540.0
+Ejisu,Single Room,1,0,Yes,14.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,11.0,9.8,14.9,170.0
+Bantama,3-Bedroom House,3,3,No,107.0,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,2.0,7.5,2.5,4820.0
+Bantama,Self-Contained,1,1,No,29.5,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,6.0,9.1,2.4,1010.0
+Ayigya,2-Bedroom Apartment,2,2,No,79.7,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,12.0,3.1,7.3,3100.0
+Suame,2-Bedroom Apartment,2,2,No,61.1,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,8.0,8.6,1.9,2110.0
+Kotei,Chamber and Hall,2,0,Yes,30.7,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,30.0,2.4,8.5,460.0
+Bantama,1-Bedroom Apartment,1,1,No,45.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,2.0,8.5,3.3,1590.0
+Bomso,Single Room,1,0,Yes,11.2,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,1.0,1.6,6.9,290.0
+Suame,Single Room,1,0,Yes,17.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,Yes,22.0,9.1,2.7,260.0
+Suame,1-Bedroom Apartment,1,1,No,47.5,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,4.0,8.1,2.3,1240.0
+Nhyiaeso,2-Bedroom Apartment,2,2,No,65.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,Yes,No,26.0,7.0,3.7,5780.0
+Bantama,2-Bedroom Apartment,2,1,No,75.8,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,12.0,8.7,2.3,3020.0
+Ahodwo,2-Bedroom Apartment,2,1,No,65.8,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,8.0,6.5,2.9,4750.0
+Patasi,Chamber and Hall,2,0,Yes,36.3,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,10.0,8.6,3.6,710.0
+Atonsu,4+ Bedroom House,5,4,No,247.2,Unfurnished,Water tank/Poly tank,No,Untarred,No,Yes,Yes,Yes,4.0,7.3,5.8,11330.0
+Suame,2-Bedroom Apartment,2,1,No,79.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,9.5,3.9,2770.0
+Danyame,4+ Bedroom House,6,5,No,179.6,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,10.0,6.0,3.3,12800.0
+Ayeduase,Single Room,1,0,Yes,12.1,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,,1.1,9.3,380.0
+Ayeduase,Self-Contained,1,1,No,30.2,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,Yes,Yes,4.0,1.0,8.0,1960.0
+Suame,Chamber and Hall,2,0,Yes,25.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,14.0,7.6,3.4,340.0
+Oforikrom,1-Bedroom Apartment,1,1,No,37.8,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,22.0,3.0,6.4,1360.0
+Patasi,Self-Contained,1,1,No,28.7,Unfurnished,Ghana Water,No,Tarred,Yes,No,No,No,4.0,7.9,3.4,810.0
+Bomso,2-Bedroom Apartment,2,1,No,80.4,Unfurnished,Ghana Water,No,Tarred,Yes,No,Yes,Yes,,1.2,7.1,3410.0
+Bomso,3-Bedroom House,3,3,No,141.3,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,Yes,Yes,3.0,2.6,6.1,9850.0
+Suame,2-Bedroom Apartment,2,2,No,76.1,Unfurnished,Borehole,No,Untarred,No,No,Yes,No,9.0,9.9,3.2,2140.0
+Ayigya,3-Bedroom House,3,2,No,136.2,Semi-furnished,Borehole,Yes,Untarred,No,No,Yes,Yes,5.0,1.9,7.1,6010.0
+Kotei,4+ Bedroom House,4,4,No,234.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,No,8.0,3.5,8.7,13340.0
+Atonsu,Chamber and Hall,2,0,Yes,31.5,Unfurnished,Borehole,Yes,Tarred,Yes,No,No,No,,6.2,5.2,620.0
+Ayeduase,Single Room,1,0,Yes,13.4,Semi-furnished,Borehole,Yes,Tarred,Yes,No,No,Yes,13.0,1.6,9.0,440.0
+Asokwa,Self-Contained,1,1,No,23.0,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,8.0,8.3,5.4,1360.0
+Bantama,Single Room,1,0,Yes,10.2,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,9.0,8.4,2.6,240.0
+Suame,1-Bedroom Apartment,1,1,No,45.1,Furnished,Ghana Water,No,Untarred,No,No,No,Yes,13.0,8.7,2.6,1170.0
+Asokwa,Self-Contained,1,1,No,25.3,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,3.0,8.2,4.1,1170.0
+Ayigya,2-Bedroom Apartment,2,2,No,72.1,Unfurnished,Ghana Water,No,Tarred,No,No,No,Yes,4.0,0.4,6.8,2940.0
+Kotei,Self-Contained,1,1,No,20.1,Furnished,Water tank/Poly tank,No,Untarred,No,No,No,No,2.0,2.8,8.4,1240.0
+Ejisu,Self-Contained,1,1,No,21.8,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,7.0,11.8,13.5,660.0
+Oforikrom,2-Bedroom Apartment,2,1,No,85.8,Furnished,Borehole,Yes,Tarred,No,No,Yes,No,4.0,3.3,6.5,4640.0
+Suame,Chamber and Hall,2,1,No,26.9,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,6.0,8.4,2.7,610.0
+Nhyiaeso,1-Bedroom Apartment,1,1,No,38.9,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,Yes,No,No,14.0,7.6,4.1,3960.0
+Suame,2-Bedroom Apartment,2,2,No,66.9,Semi-furnished,Borehole,Yes,Tarred,Yes,No,Yes,Yes,6.0,7.8,3.3,4430.0
+Ayeduase,1-Bedroom Apartment,1,1,No,41.3,Furnished,Borehole,Yes,Untarred,No,No,No,Yes,2.0,0.4,9.0,3360.0
+Bomso,Self-Contained,1,1,No,,Furnished,Borehole,Yes,Untarred,No,No,No,No,4.0,1.4,7.6,2050.0
+Suame,Self-Contained,1,1,No,26.5,Furnished,Borehole,Yes,Tarred,No,No,No,No,7.0,8.4,3.6,950.0
+Suame,Chamber and Hall,2,0,Yes,34.9,Furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,1.0,7.9,3.2,580.0
+Oforikrom,3-Bedroom House,3,2,No,144.1,Furnished,Ghana Water,Yes,Tarred,No,Yes,Yes,No,9.0,4.7,6.2,9270.0
+Bomso,4+ Bedroom House,5,3,No,226.3,Unfurnished,Ghana Water,No,Tarred,Yes,No,Yes,Yes,,1.4,8.0,11470.0
+Danyame,1-Bedroom Apartment,1,1,No,45.1,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,Yes,11.0,6.3,4.7,4400.0
+Suame,Single Room,1,0,Yes,11.3,Semi-furnished,Ghana Water,No,Tarred,No,No,No,No,11.0,8.4,3.0,170.0
+Tafo,2-Bedroom Apartment,2,2,No,73.6,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,16.0,11.1,5.4,1890.0
+Patasi,3-Bedroom House,3,2,No,126.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,8.0,8.9,3.2,5590.0
+Adiembra,Single Room,1,0,Yes,16.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,5.0,10.0,6.2,280.0
+Kentinkrono,Single Room,1,0,Yes,13.4,Furnished,Borehole,Yes,Tarred,No,No,Yes,No,2.0,4.1,9.6,620.0
+Bantama,Self-Contained,1,1,No,18.3,Semi-furnished,Ghana Water,Yes,Untarred,Yes,Yes,Yes,No,4.0,9.5,2.9,910.0
+Ayigya,Self-Contained,1,1,No,26.4,Furnished,Borehole,Yes,Tarred,No,Yes,No,Yes,,3.3,8.3,2190.0
+Ayeduase,Self-Contained,1,1,No,25.1,Semi-furnished,Borehole,Yes,Tarred,No,Yes,No,No,6.0,0.3,8.3,1890.0
+Tafo,3-Bedroom House,3,3,No,129.1,Unfurnished,Ghana Water,No,Untarred,No,No,Yes,Yes,6.0,10.7,6.4,3220.0
+Danyame,Self-Contained,1,1,No,24.9,Unfurnished,Borehole,Yes,Tarred,Yes,No,No,No,7.0,4.3,2.9,1670.0
+Kotei,Self-Contained,1,1,No,23.3,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,10.0,3.3,8.9,1450.0
+Emena,Single Room,1,0,Yes,,Unfurnished,Borehole,Yes,Tarred,Yes,No,Yes,No,10.0,6.2,9.1,330.0
+Ejisu,3-Bedroom House,3,2,No,120.7,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,6.0,11.8,14.5,5770.0
+Ayeduase,1-Bedroom Apartment,1,1,No,44.3,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,7.0,1.3,9.0,3500.0
+Kotei,2-Bedroom Apartment,2,2,No,81.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,2.2,7.7,3340.0
+Suame,2-Bedroom Apartment,2,2,No,73.4,Unfurnished,Borehole,Yes,Tarred,No,Yes,Yes,Yes,8.0,8.0,3.5,2970.0
+Tafo,Self-Contained,1,1,No,18.5,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,7.0,9.8,5.2,710.0
+Kwadaso,4+ Bedroom House,6,7,No,269.4,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,10.0,7.2,5.3,15010.0
+Bomso,Chamber and Hall,2,0,Yes,29.9,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,5.0,2.6,6.5,770.0
+Kotei,Self-Contained,1,1,No,21.2,Semi-furnished,Ghana Water,Yes,Untarred,Yes,Yes,No,Yes,4.0,1.8,8.2,1420.0
+Kwadaso,1-Bedroom Apartment,1,1,No,47.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,1.0,7.9,5.3,1720.0
+Ayigya,3-Bedroom House,3,3,No,142.2,Furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,9.0,2.4,7.5,6640.0
+Kotei,1-Bedroom Apartment,1,1,No,41.7,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,5.0,3.3,8.3,1490.0
+Ahodwo,Chamber and Hall,2,0,Yes,35.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,2.0,7.7,3.0,1010.0
+Ayigya,Chamber and Hall,2,0,Yes,33.3,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,5.0,1.8,7.7,940.0
+Kentinkrono,4+ Bedroom House,6,4,No,245.4,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,5.0,3.4,8.1,13410.0
+Ahodwo,Single Room,1,1,No,12.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,5.0,6.9,3.1,500.0
+Bantama,Single Room,1,0,Yes,10.0,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,,6.9,0.7,230.0
+Ayigya,Single Room,1,0,Yes,14.2,Unfurnished,Borehole,No,Tarred,No,No,No,Yes,7.0,2.9,7.5,270.0
+Atonsu,Chamber and Hall,2,0,Yes,26.3,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,7.5,5.1,630.0
+Santasi,1-Bedroom Apartment,1,1,No,43.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,2.0,8.9,4.5,2180.0
+Bantama,Self-Contained,1,1,No,21.2,Furnished,Ghana Water,No,Untarred,No,No,No,No,7.0,8.9,2.1,920.0
+Ayigya,1-Bedroom Apartment,1,1,No,51.7,Furnished,Borehole,Yes,Tarred,No,No,Yes,Yes,7.0,1.2,7.4,3470.0
+Kwadaso,1-Bedroom Apartment,1,1,No,41.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,4.0,7.7,5.7,1480.0
+Patasi,3-Bedroom House,3,3,No,110.4,Unfurnished,Ghana Water,No,Tarred,No,No,Yes,No,11.0,7.9,1.6,5600.0
+Santasi,Self-Contained,1,1,No,28.0,Semi-furnished,Ghana Water,No,Untarred,No,No,No,No,6.0,7.9,5.3,1270.0
+Ejisu,3-Bedroom House,3,2,No,156.8,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,5.0,10.8,14.0,5790.0
+Adiembra,2-Bedroom Apartment,2,1,No,67.5,Unfurnished,Water tank/Poly tank,No,Tarred,No,No,No,Yes,5.0,8.6,5.6,2800.0
+Ayigya,Chamber and Hall,2,0,Yes,33.3,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,7.0,2.8,7.6,760.0
+Ahodwo,Chamber and Hall,2,0,Yes,34.4,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,15.0,8.2,2.7,1370.0
+Atonsu,Single Room,1,0,Yes,10.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,18.0,8.1,4.6,230.0
+Bomso,2-Bedroom Apartment,2,2,No,83.7,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,0.0,1.8,6.5,4940.0
+Adiembra,Single Room,1,1,No,17.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,12.0,9.7,6.7,250.0
+Ejisu,Self-Contained,1,1,No,27.2,Unfurnished,Borehole,Yes,Tarred,Yes,Yes,No,No,10.0,10.4,14.6,1310.0
+Kentinkrono,3-Bedroom House,3,3,No,100.1,Furnished,Borehole,Yes,Untarred,No,No,No,No,5.0,3.5,7.7,8030.0
+Ayeduase,Self-Contained,1,1,No,21.9,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,3.0,0.9,8.7,1960.0
+Ayeduase,4+ Bedroom House,5,4,No,197.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,8.0,1.2,9.0,11260.0
+Bomso,1-Bedroom Apartment,1,1,No,41.8,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,7.0,2.0,6.9,2540.0
+Ayigya,2-Bedroom Apartment,2,2,No,86.4,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,4.0,1.7,7.4,2860.0
+Patasi,Self-Contained,1,1,No,22.9,Unfurnished,Ghana Water,No,Tarred,Yes,No,No,Yes,6.0,8.1,2.8,870.0
+Adiembra,3-Bedroom House,3,2,No,152.9,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,8.0,9.8,5.4,6480.0
+Ejisu,2-Bedroom Apartment,2,2,No,58.3,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,Yes,Yes,9.0,10.3,14.3,2720.0
+Santasi,1-Bedroom Apartment,1,1,No,53.6,Semi-furnished,Borehole,Yes,Tarred,Yes,No,Yes,No,17.0,9.0,5.7,3270.0
+Santasi,Single Room,1,0,Yes,15.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,10.0,8.6,6.3,350.0
+Ayigya,1-Bedroom Apartment,1,1,No,35.8,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,14.0,1.5,7.4,2810.0
+Ayigya,Chamber and Hall,2,1,No,31.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,5.0,0.9,7.1,770.0
+Ejisu,Self-Contained,1,1,No,25.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,3.0,11.5,14.8,910.0
+Oforikrom,Single Room,1,0,Yes,15.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,No,No,5.0,2.8,6.9,350.0
+Ayeduase,Chamber and Hall,2,0,Yes,26.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,3.0,0.8,8.2,800.0
+Bomso,1-Bedroom Apartment,1,1,No,36.1,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,11.0,1.5,6.9,1340.0
+Bomso,Single Room,1,0,Yes,13.5,Furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,2.0,1.3,6.9,470.0
+Nhyiaeso,Self-Contained,1,1,No,21.6,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,3.0,7.3,2.4,2640.0
+Kwadaso,3-Bedroom House,3,3,No,110.9,Unfurnished,Borehole,No,Untarred,No,No,No,No,6.0,8.1,5.6,3580.0
+Atonsu,Self-Contained,1,1,No,23.6,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,8.0,8.2,4.5,900.0
+Ahodwo,3-Bedroom House,3,3,No,125.6,Furnished,Borehole,Yes,Tarred,Yes,No,Yes,No,6.0,7.9,2.7,20420.0
+Kentinkrono,Single Room,1,0,Yes,13.1,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,8.0,3.6,7.6,520.0
+Atonsu,4+ Bedroom House,5,4,No,174.7,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,6.0,6.7,4.9,8230.0
+Emena,2-Bedroom Apartment,2,2,No,70.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,8.0,5.4,8.5,2600.0
+Bantama,Single Room,1,0,Yes,14.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,,8.8,2.2,270.0
+Kentinkrono,Single Room,1,1,No,14.3,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,2.0,3.4,7.8,380.0
+Kotei,Self-Contained,1,1,No,,Furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,12.0,2.4,9.4,1550.0
+Kwadaso,Chamber and Hall,2,1,No,37.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,11.0,8.3,5.5,760.0
+Kwadaso,Single Room,1,0,Yes,15.8,Furnished,Borehole,Yes,Tarred,Yes,No,No,No,2.0,7.4,6.2,420.0
+Bomso,1-Bedroom Apartment,1,1,No,39.5,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,5.0,1.9,6.3,2520.0
+Suame,Self-Contained,1,1,No,,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,12.0,8.9,3.2,610.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,41.4,Unfurnished,Borehole,No,Tarred,No,No,No,No,21.0,3.8,8.1,1660.0
+Asokwa,4+ Bedroom House,5,5,No,165.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,5.0,7.8,4.5,10130.0
+Asokwa,2-Bedroom Apartment,2,2,No,74.1,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,4.0,7.2,4.4,3290.0
+Oforikrom,2-Bedroom Apartment,2,1,No,56.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,5.0,3.9,7.0,2750.0
+Bomso,Chamber and Hall,2,0,Yes,35.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,5.0,1.7,7.6,1040.0
+Atonsu,4+ Bedroom House,6,5,No,181.9,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,6.0,7.9,4.3,9390.0
+Ayeduase,3-Bedroom House,3,3,No,130.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,10.0,0.9,9.5,7410.0
+Asokwa,1-Bedroom Apartment,1,1,No,38.4,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,8.0,6.8,4.6,1690.0
+Bantama,2-Bedroom Apartment,2,1,No,67.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,7.0,10.0,1.9,2810.0
+Santasi,1-Bedroom Apartment,1,1,No,35.3,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,5.0,8.9,4.8,2200.0
+Patasi,2-Bedroom Apartment,2,2,No,85.0,Furnished,Ghana Water,No,Tarred,No,Yes,Yes,No,12.0,8.2,3.1,4410.0
+Ejisu,2-Bedroom Apartment,2,2,No,74.1,Semi-furnished,Borehole,No,Untarred,No,No,Yes,No,8.0,10.4,14.0,2970.0
+Kentinkrono,4+ Bedroom House,4,3,No,191.6,Unfurnished,Borehole,No,Tarred,No,No,Yes,No,7.0,3.9,7.5,13450.0
+Bantama,Chamber and Hall,2,1,No,31.2,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,7.0,9.1,1.8,520.0
+Oforikrom,Chamber and Hall,2,1,No,35.6,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,,3.3,6.8,720.0
+Kotei,4+ Bedroom House,5,3,No,233.1,Unfurnished,Water tank/Poly tank,No,Tarred,No,Yes,Yes,Yes,5.0,2.1,9.5,11270.0
+Bomso,Single Room,1,1,No,12.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,3.0,2.4,6.8,350.0
+Suame,1-Bedroom Apartment,1,1,No,47.0,Unfurnished,Ghana Water,No,Untarred,Yes,No,No,No,,9.0,2.5,1020.0
+Asokwa,4+ Bedroom House,4,4,No,221.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,12.0,7.9,3.6,11420.0
+Kentinkrono,Chamber and Hall,2,0,Yes,30.1,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,6.0,3.1,9.2,630.0
+Kentinkrono,Self-Contained,1,1,No,23.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,,3.6,8.5,1210.0
+Ahodwo,3-Bedroom House,3,3,No,133.8,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,Yes,No,31.0,6.6,2.7,17110.0
+Danyame,4+ Bedroom House,5,4,No,303.7,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,6.0,6.2,2.5,29920.0
+Patasi,Self-Contained,1,1,No,31.6,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,3.0,8.6,3.5,1300.0
+Santasi,2-Bedroom Apartment,2,2,No,60.7,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,8.0,7.8,4.7,3740.0
+Emena,Self-Contained,1,1,No,31.2,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,16.0,7.3,8.8,770.0
+Ayeduase,Single Room,1,1,No,16.6,Semi-furnished,Water tank/Poly tank,No,Tarred,No,No,No,Yes,24.0,1.0,9.8,450.0
+Ejisu,4+ Bedroom House,6,5,No,230.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,14.0,11.4,14.1,7730.0
+Ayeduase,2-Bedroom Apartment,2,1,No,64.7,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,14.0,0.5,8.9,3500.0
+Nhyiaeso,Chamber and Hall,2,0,Yes,28.1,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,16.0,8.3,4.3,2150.0
+Kotei,Chamber and Hall,2,0,Yes,34.6,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,14.0,3.1,7.7,680.0
+Kwadaso,Single Room,1,0,Yes,10.2,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,7.0,7.7,6.5,280.0
+Oforikrom,4+ Bedroom House,4,4,No,170.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,4.0,3.4,7.6,9190.0
+Danyame,Chamber and Hall,2,0,Yes,27.6,Furnished,Borehole,Yes,Tarred,No,No,No,No,5.0,5.6,3.6,1270.0
+Bantama,1-Bedroom Apartment,1,1,No,38.4,Unfurnished,Water tank/Poly tank,No,Untarred,No,No,No,No,16.0,8.4,2.9,1030.0
+Bantama,4+ Bedroom House,6,4,No,206.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,4.0,8.8,2.4,8590.0
+Ejisu,2-Bedroom Apartment,2,2,No,69.7,Furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,8.0,10.4,13.3,3680.0
+Santasi,4+ Bedroom House,6,4,No,,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,7.0,9.0,5.2,17720.0
+Kotei,3-Bedroom House,3,2,No,119.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,9.0,2.4,8.3,5710.0
+Ahodwo,2-Bedroom Apartment,2,1,No,79.8,Furnished,Ghana Water,Yes,Untarred,Yes,Yes,No,Yes,6.0,6.7,3.7,12560.0
+Bomso,1-Bedroom Apartment,1,1,No,39.8,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,4.0,2.3,7.3,2400.0
+Ayeduase,4+ Bedroom House,5,5,No,173.2,Semi-furnished,Borehole,Yes,Tarred,No,Yes,Yes,No,2.0,2.3,10.0,16450.0
+Kentinkrono,Chamber and Hall,2,0,Yes,25.1,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,,3.1,8.1,720.0
+Atonsu,2-Bedroom Apartment,2,2,No,65.5,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,8.0,7.2,4.7,2550.0
+Patasi,1-Bedroom Apartment,1,1,No,35.5,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,1.0,8.9,2.5,1600.0
+Ayigya,Single Room,1,0,Yes,17.0,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,10.0,2.5,7.2,340.0
+Ejisu,Chamber and Hall,2,0,Yes,27.4,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,3.0,10.8,14.6,650.0
+Ayeduase,Single Room,1,1,No,,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,7.0,0.6,8.9,460.0
+Emena,Single Room,1,0,Yes,12.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,11.0,7.7,9.6,210.0
+Oforikrom,Self-Contained,1,1,No,21.8,Unfurnished,Water tank/Poly tank,No,Tarred,No,No,No,No,6.0,3.9,6.0,760.0
+Santasi,2-Bedroom Apartment,2,2,No,82.2,Semi-furnished,Borehole,Yes,Untarred,No,No,Yes,Yes,6.0,9.1,5.7,4730.0
+Bomso,Single Room,1,0,Yes,10.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,23.0,2.5,7.0,250.0
+Nhyiaeso,Self-Contained,1,1,No,28.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,Yes,No,4.0,6.4,2.3,3240.0
+Ayigya,4+ Bedroom House,5,4,No,318.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,12.0,2.1,7.6,11110.0
+Santasi,2-Bedroom Apartment,2,2,No,74.9,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,21.0,9.1,4.8,4280.0
+Kwadaso,Single Room,1,0,Yes,12.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,7.4,5.1,190.0
+Bantama,3-Bedroom House,3,3,No,106.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,7.0,8.9,2.1,4980.0
+Kwadaso,Self-Contained,1,1,No,26.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,9.0,7.7,5.5,1170.0
+Emena,1-Bedroom Apartment,1,1,No,54.3,Furnished,Ghana Water,No,Untarred,No,No,No,No,6.0,6.5,9.0,1790.0
+Patasi,Chamber and Hall,2,0,Yes,39.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,14.0,8.1,3.1,800.0
+Ejisu,1-Bedroom Apartment,1,1,No,51.2,Unfurnished,Borehole,No,Untarred,Yes,Yes,No,No,6.0,11.9,14.0,1500.0
+Asokwa,Self-Contained,1,1,No,29.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,10.0,8.0,5.0,1260.0
+Adiembra,4+ Bedroom House,6,5,No,154.2,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,8.0,9.2,5.8,7840.0
+Santasi,Chamber and Hall,2,0,Yes,38.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,7.0,8.6,4.7,920.0
+Oforikrom,Chamber and Hall,2,0,Yes,38.0,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,7.0,4.9,6.7,670.0
+Patasi,3-Bedroom House,3,2,No,157.1,Unfurnished,Ghana Water,No,Tarred,Yes,Yes,No,No,12.0,7.7,3.3,6300.0
+Ayigya,Self-Contained,1,1,No,31.6,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,22.0,2.5,7.2,1150.0
+Bomso,3-Bedroom House,3,3,No,127.4,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,No,No,5.0,1.9,6.1,6580.0
+Ejisu,Chamber and Hall,2,0,Yes,39.7,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,20.0,10.8,13.1,750.0
+Ayigya,Single Room,1,0,Yes,10.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,15.0,1.6,7.3,260.0
+Bantama,Chamber and Hall,2,1,No,39.9,Unfurnished,Borehole,Yes,Untarred,No,Yes,Yes,No,9.0,8.4,3.0,680.0
+Tafo,1-Bedroom Apartment,1,1,No,42.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,5.0,10.3,4.3,1040.0
+Tafo,2-Bedroom Apartment,2,2,No,84.3,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,22.0,9.3,6.1,2360.0
+Ayeduase,Chamber and Hall,2,0,Yes,29.8,Semi-furnished,Borehole,Yes,Untarred,No,Yes,No,No,17.0,1.3,8.9,810.0
+Kentinkrono,3-Bedroom House,3,2,No,126.9,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,5.0,3.7,7.9,8690.0
+Adiembra,2-Bedroom Apartment,2,1,No,80.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,19.0,10.1,4.8,2770.0
+Kwadaso,4+ Bedroom House,5,4,No,298.3,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,11.0,8.2,4.8,12900.0
+Kwadaso,Chamber and Hall,2,0,Yes,27.2,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,16.0,6.5,5.5,750.0
+Kotei,3-Bedroom House,3,2,No,122.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,1.0,2.1,9.1,5360.0
+Atonsu,Single Room,1,1,No,11.3,Furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,2.0,6.8,4.3,400.0
+Ejisu,2-Bedroom Apartment,2,1,No,71.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,3.0,11.4,12.4,2400.0
+Suame,1-Bedroom Apartment,1,1,No,43.3,Unfurnished,Borehole,No,Untarred,Yes,Yes,Yes,No,15.0,9.3,2.6,1050.0
+Bomso,Self-Contained,1,1,No,27.6,Unfurnished,Water tank/Poly tank,No,Untarred,No,No,Yes,No,9.0,3.3,7.3,1180.0
+Atonsu,2-Bedroom Apartment,2,1,No,88.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,2.0,6.9,4.7,3550.0
+Bantama,Chamber and Hall,2,1,No,33.1,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,10.0,8.2,3.7,530.0
+Ejisu,4+ Bedroom House,4,2,No,252.1,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,0.0,11.6,13.7,8570.0
+Ahodwo,Self-Contained,1,1,No,30.1,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,4.0,6.1,2.3,2760.0
+Kotei,3-Bedroom House,3,2,No,155.0,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,9.0,1.7,8.6,6890.0
+Atonsu,Self-Contained,1,1,No,25.4,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,9.0,7.1,5.3,830.0
+Bomso,Single Room,1,1,No,10.0,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,7.0,0.9,7.3,390.0
+Emena,2-Bedroom Apartment,2,1,No,76.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,7.5,8.6,2450.0
+Oforikrom,Chamber and Hall,2,0,Yes,40.0,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,4.9,6.6,670.0
+Suame,1-Bedroom Apartment,1,1,No,39.2,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,6.0,8.7,1.8,1140.0
+Santasi,2-Bedroom Apartment,2,2,No,77.6,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,5.0,8.4,5.7,2350.0
+Bantama,Single Room,1,0,Yes,13.5,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,7.0,7.9,2.4,220.0
+Adiembra,Chamber and Hall,2,0,Yes,35.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,6.0,9.1,6.4,500.0
+Emena,3-Bedroom House,3,2,No,91.8,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,2.0,7.0,8.0,4500.0
+Oforikrom,2-Bedroom Apartment,2,2,No,66.3,Furnished,Ghana Water,No,Untarred,No,No,No,No,10.0,4.2,6.4,2520.0
+Ahodwo,Chamber and Hall,2,0,Yes,26.2,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,6.0,2.0,1280.0
+Kotei,Chamber and Hall,2,0,Yes,37.1,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,Yes,6.0,1.7,8.5,1350.0
+Bantama,Chamber and Hall,2,0,Yes,33.1,Furnished,Ghana Water,No,Untarred,No,No,No,Yes,11.0,7.4,2.6,600.0
+Atonsu,1-Bedroom Apartment,1,1,No,38.0,Furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,6.0,7.2,4.9,2090.0
+Kwadaso,2-Bedroom Apartment,2,1,No,74.5,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,5.0,9.8,5.1,2680.0
+Ahodwo,Chamber and Hall,2,1,No,37.4,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,6.0,7.2,3.5,1710.0
+Oforikrom,1-Bedroom Apartment,1,1,No,38.9,Furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,13.0,3.6,8.0,1900.0
+Kotei,Single Room,1,0,Yes,10.6,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,2.0,2.7,8.1,250.0
+Kentinkrono,Self-Contained,1,1,No,27.0,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,12.0,5.2,7.5,1280.0
+Asokwa,Self-Contained,1,1,No,29.9,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,5.0,8.1,4.4,1170.0
+Ahodwo,2-Bedroom Apartment,2,2,No,88.8,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,Yes,16.0,7.4,2.7,9820.0
+Nhyiaeso,4+ Bedroom House,5,3,No,199.3,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,Yes,No,11.0,7.6,4.2,29020.0
+Santasi,Chamber and Hall,2,0,Yes,26.0,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,8.3,5.4,940.0
+Ayigya,Chamber and Hall,2,1,No,26.3,Unfurnished,Borehole,No,Tarred,No,No,No,Yes,,1.8,7.4,660.0
+Emena,Chamber and Hall,2,0,Yes,26.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,6.9,8.9,460.0
+Santasi,4+ Bedroom House,6,4,No,204.6,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,9.0,8.6,5.0,13010.0
+Atonsu,Single Room,1,0,Yes,13.0,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,4.0,7.3,3.4,310.0
+Kwadaso,Chamber and Hall,2,0,Yes,30.6,Furnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,5.0,8.4,5.9,1010.0
+Atonsu,2-Bedroom Apartment,2,2,No,62.9,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,4.0,7.5,4.8,2800.0
+Bantama,3-Bedroom House,3,2,No,127.4,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,13.0,8.4,1.7,4040.0
+Suame,4+ Bedroom House,6,4,No,251.1,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,Yes,7.0,7.4,3.1,10030.0
+Danyame,2-Bedroom Apartment,2,2,No,76.4,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,Yes,5.0,5.7,3.2,7330.0
+Atonsu,Chamber and Hall,2,0,Yes,28.0,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,11.0,6.1,4.7,700.0
+Tafo,1-Bedroom Apartment,1,1,No,45.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,14.0,9.0,5.5,1710.0
+Adiembra,1-Bedroom Apartment,1,1,No,50.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,1.0,8.3,5.8,2020.0
+Oforikrom,1-Bedroom Apartment,1,1,No,35.8,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,17.0,3.5,6.8,1540.0
+Kentinkrono,2-Bedroom Apartment,2,2,No,79.7,Unfurnished,Borehole,Yes,Tarred,Yes,No,Yes,No,10.0,4.8,7.5,4210.0
+Atonsu,Self-Contained,1,1,No,28.4,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,Yes,6.0,9.2,4.7,1130.0
+Adiembra,Single Room,1,0,Yes,17.9,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,18.0,9.9,5.3,350.0
+Bantama,Self-Contained,1,1,No,,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,0.0,7.4,3.2,1050.0
+Nhyiaeso,Chamber and Hall,2,0,Yes,27.4,Furnished,Ghana Water,Yes,Untarred,No,Yes,No,No,22.0,7.6,3.6,2020.0
+Santasi,Chamber and Hall,2,1,No,29.7,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,2.0,7.9,5.2,680.0
+Ayigya,1-Bedroom Apartment,1,1,No,35.3,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,11.0,1.8,6.9,1840.0
+Suame,Chamber and Hall,2,0,Yes,25.2,Semi-furnished,Water tank/Poly tank,No,Untarred,No,Yes,No,No,6.0,8.2,2.6,450.0
+Tafo,Chamber and Hall,2,0,Yes,37.0,Semi-furnished,Borehole,Yes,Untarred,No,No,No,Yes,9.0,9.7,5.8,650.0
+Santasi,Self-Contained,1,1,No,27.3,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,Yes,9.0,8.5,5.1,1440.0
+Bomso,4+ Bedroom House,5,4,No,211.1,Unfurnished,Ghana Water,No,Tarred,No,No,Yes,No,4.0,1.4,6.6,10640.0
+Santasi,Chamber and Hall,2,1,No,25.2,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,9.0,10.7,4.1,690.0
+Bantama,Self-Contained,1,1,No,19.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,5.0,9.6,3.7,770.0
+Bantama,Chamber and Hall,2,0,Yes,36.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,9.0,2.4,530.0
+Asokwa,2-Bedroom Apartment,2,2,No,58.1,Unfurnished,Borehole,No,Untarred,Yes,Yes,Yes,Yes,12.0,6.3,5.5,3620.0
+Danyame,Chamber and Hall,2,0,Yes,32.1,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,14.0,6.7,3.4,1020.0
+Kentinkrono,Self-Contained,1,1,No,18.1,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,13.0,4.2,8.4,1090.0
+Adiembra,2-Bedroom Apartment,2,1,No,80.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,13.0,9.3,6.5,2340.0
+Kentinkrono,Self-Contained,1,1,No,22.4,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,3.9,7.9,1240.0
+Ayeduase,3-Bedroom House,3,3,No,148.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,1.0,0.6,8.4,7190.0
+Ejisu,Self-Contained,1,1,No,18.6,Furnished,Borehole,Yes,Untarred,No,No,No,No,6.0,11.0,14.6,930.0
+Suame,Self-Contained,1,1,No,18.9,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,11.0,8.4,3.1,860.0
+Atonsu,Single Room,1,0,Yes,10.2,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,21.0,7.2,3.9,190.0
+Nhyiaeso,Chamber and Hall,2,0,Yes,27.9,Furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,5.0,6.9,3.4,1590.0
+Nhyiaeso,4+ Bedroom House,6,6,No,216.6,Unfurnished,Borehole,Yes,Untarred,Yes,Yes,Yes,No,12.0,8.8,3.7,29860.0
+Adiembra,3-Bedroom House,3,2,No,127.9,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,12.0,8.4,6.3,4260.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,35.3,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,8.0,3.6,8.6,2210.0
+Oforikrom,2-Bedroom Apartment,2,1,No,70.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,Yes,Yes,3.0,3.4,6.5,2980.0
+Santasi,1-Bedroom Apartment,1,1,No,41.2,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,9.2,4.3,2500.0
+Kotei,1-Bedroom Apartment,1,1,No,35.1,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,2.5,8.0,1650.0
+Oforikrom,Single Room,1,0,Yes,16.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,9.0,3.2,6.5,210.0
+Atonsu,Single Room,1,0,Yes,15.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,17.0,8.0,5.6,300.0
+Asokwa,3-Bedroom House,3,2,No,158.2,Semi-furnished,Borehole,Yes,Untarred,Yes,Yes,No,No,2.0,7.6,4.3,10500.0
+Ayeduase,2-Bedroom Apartment,2,2,No,78.1,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,6.0,1.3,8.6,3810.0
+Ayeduase,3-Bedroom House,3,2,No,102.0,Semi-furnished,Borehole,No,Untarred,No,Yes,Yes,No,3.0,0.8,9.8,6000.0
+Atonsu,Single Room,1,0,Yes,12.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,7.9,5.8,200.0
+Ayeduase,1-Bedroom Apartment,1,1,No,45.7,Furnished,Ghana Water,No,Tarred,No,No,No,Yes,3.0,1.8,9.0,3460.0
+Asokwa,1-Bedroom Apartment,1,1,No,43.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,12.0,7.8,5.0,1770.0
+Danyame,2-Bedroom Apartment,2,2,No,69.5,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,Yes,Yes,5.0,6.1,3.0,4890.0
+Asokwa,Self-Contained,1,1,No,19.0,Furnished,Borehole,Yes,Untarred,No,No,No,No,4.0,8.1,3.8,1430.0
+Suame,Single Room,1,0,Yes,14.7,Unfurnished,Borehole,No,Untarred,No,No,No,No,13.0,8.1,2.7,220.0
+Kwadaso,Chamber and Hall,2,1,No,29.5,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,5.0,8.2,5.5,700.0
+Ayigya,3-Bedroom House,3,2,No,108.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,15.0,1.0,6.5,4900.0
+Asokwa,1-Bedroom Apartment,1,1,No,40.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,15.0,8.0,5.1,1660.0
+Ayigya,3-Bedroom House,3,3,No,147.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,12.0,1.6,7.9,6510.0
+Suame,3-Bedroom House,3,2,No,,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,10.0,9.2,3.4,4200.0
+Ayigya,2-Bedroom Apartment,2,2,No,55.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,1.5,6.9,3050.0
+Kentinkrono,Self-Contained,1,1,No,23.1,Unfurnished,Borehole,Yes,Untarred,No,Yes,No,No,6.0,2.9,8.3,1300.0
+Bomso,Chamber and Hall,2,0,Yes,35.2,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,2.0,2.0,7.2,860.0
+Kotei,3-Bedroom House,3,2,No,145.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,5.0,1.2,8.6,7280.0
+Adiembra,Single Room,1,0,Yes,10.2,Furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,3.0,8.9,6.3,320.0
+Oforikrom,Chamber and Hall,2,0,Yes,29.4,Furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,5.0,4.5,5.8,1040.0
+Asokwa,Self-Contained,1,1,No,21.9,Semi-furnished,Borehole,Yes,Untarred,No,No,Yes,No,12.0,8.9,5.3,1210.0
+Danyame,2-Bedroom Apartment,2,2,No,82.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,11.0,5.3,3.6,5620.0
+Kwadaso,2-Bedroom Apartment,2,2,No,78.6,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,Yes,2.0,8.9,5.7,3390.0
+Kentinkrono,4+ Bedroom House,4,3,No,189.5,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,37.0,3.6,7.4,9870.0
+Suame,Self-Contained,1,1,No,27.6,Furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,1.0,9.5,2.8,1310.0
+Bantama,4+ Bedroom House,5,4,No,270.8,Semi-furnished,Borehole,No,Untarred,No,No,Yes,No,5.0,9.2,2.1,9810.0
+Oforikrom,3-Bedroom House,3,2,No,152.7,Unfurnished,Borehole,Yes,Tarred,No,Yes,No,Yes,11.0,3.9,5.6,6220.0
+Tafo,4+ Bedroom House,5,4,No,289.2,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,3.0,10.7,5.2,5770.0
+Atonsu,1-Bedroom Apartment,1,1,No,37.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,8.0,5.7,1630.0
+Oforikrom,Self-Contained,1,1,No,21.8,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,26.0,2.9,6.6,660.0
+Bantama,Self-Contained,1,1,No,28.7,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,11.0,7.4,2.5,930.0
+Suame,2-Bedroom Apartment,2,2,No,65.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,9.2,3.4,2360.0
+Tafo,Self-Contained,1,1,No,21.7,Furnished,Ghana Water,No,Untarred,No,No,No,No,1.0,8.5,5.3,880.0
+Bantama,3-Bedroom House,3,2,No,121.4,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,8.2,2.2,3710.0
+Bomso,Chamber and Hall,2,1,No,30.2,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,14.0,2.1,8.2,710.0
+Atonsu,2-Bedroom Apartment,2,2,No,61.8,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,6.0,7.9,5.5,3080.0
+Atonsu,Single Room,1,1,No,13.5,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,27.0,7.3,4.2,220.0
+Atonsu,Self-Contained,1,1,No,20.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,11.0,7.9,3.9,740.0
+Kentinkrono,Chamber and Hall,2,1,No,27.7,Semi-furnished,Water tank/Poly tank,No,Untarred,No,No,No,No,3.0,3.9,7.7,710.0
+Ahodwo,Single Room,1,0,Yes,15.5,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,6.0,6.5,3.0,630.0
+Bantama,1-Bedroom Apartment,1,1,No,35.2,Furnished,Borehole,Yes,Tarred,No,No,No,No,6.0,8.0,3.1,1940.0
+Asokwa,Single Room,1,1,No,15.0,Unfurnished,Ghana Water,No,Tarred,No,No,No,Yes,4.0,8.1,3.5,340.0
+Santasi,Chamber and Hall,2,0,Yes,26.5,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,7.0,8.9,5.7,840.0
+Santasi,Single Room,1,0,Yes,17.1,Unfurnished,Borehole,Yes,Untarred,Yes,No,Yes,No,6.0,8.6,6.2,390.0
+Emena,Single Room,1,0,Yes,16.6,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,6.0,5.9,10.1,310.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,44.3,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,6.0,4.1,7.6,2480.0
+Ahodwo,Single Room,1,0,Yes,14.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,6.0,6.9,3.7,590.0
+Kwadaso,1-Bedroom Apartment,1,1,No,36.5,Semi-furnished,Ghana Water,No,Untarred,No,No,No,No,10.0,9.6,5.1,1450.0
+Suame,2-Bedroom Apartment,2,2,No,77.5,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,9.0,8.7,3.1,3540.0
+Asokwa,Self-Contained,1,1,No,18.2,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,7.4,5.8,1170.0
+Patasi,Self-Contained,1,1,No,23.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,12.0,7.3,3.2,1090.0
+Ahodwo,Self-Contained,1,1,No,31.5,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,15.0,7.9,3.5,2470.0
+Bomso,1-Bedroom Apartment,1,1,No,53.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,,2.2,7.3,1780.0
+Bomso,2-Bedroom Apartment,2,2,No,61.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,Yes,1.0,1.7,6.2,3770.0
+Suame,2-Bedroom Apartment,2,2,No,60.2,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,2.0,8.5,3.6,2460.0
+Patasi,2-Bedroom Apartment,2,2,No,81.9,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,Yes,Yes,No,2.0,7.2,3.2,4400.0
+Nhyiaeso,2-Bedroom Apartment,2,2,No,84.7,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,Yes,No,3.0,7.3,3.3,7790.0
+Atonsu,1-Bedroom Apartment,1,1,No,51.7,Furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,7.0,7.3,5.1,2180.0
+Suame,2-Bedroom Apartment,2,2,No,70.1,Semi-furnished,Borehole,Yes,Tarred,Yes,Yes,Yes,Yes,11.0,8.8,2.4,3080.0
+Kwadaso,Single Room,1,0,Yes,15.6,Unfurnished,Water tank/Poly tank,No,Tarred,No,No,Yes,Yes,10.0,7.5,5.6,230.0
+Oforikrom,Self-Contained,1,1,No,25.3,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,10.0,2.2,6.9,970.0
+Kentinkrono,Self-Contained,1,1,No,31.8,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,15.0,4.2,8.1,1660.0
+Oforikrom,Single Room,1,0,Yes,10.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,6.0,4.5,7.0,240.0
+Ayeduase,Chamber and Hall,2,0,Yes,34.8,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,2.0,0.6,9.8,1080.0
+Santasi,Self-Contained,1,1,No,,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,9.6,5.3,1290.0
+Ayigya,2-Bedroom Apartment,2,2,No,66.7,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,Yes,8.0,1.8,7.2,4030.0
+Kotei,2-Bedroom Apartment,2,2,No,58.1,Unfurnished,Ghana Water,No,Tarred,Yes,No,Yes,Yes,7.0,2.6,8.7,3160.0
+Suame,Single Room,1,0,Yes,12.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,2.0,8.6,3.3,190.0
+Ayigya,Chamber and Hall,2,0,Yes,27.1,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,Yes,0.0,2.5,7.0,750.0
+Bomso,3-Bedroom House,3,3,No,119.5,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,4.0,2.1,7.1,6910.0
+Atonsu,2-Bedroom Apartment,2,2,No,86.1,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,Yes,No,,6.5,5.2,3720.0
+Suame,4+ Bedroom House,6,6,No,293.5,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,,9.4,2.7,11190.0
+Bantama,Self-Contained,1,1,No,28.9,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,0.0,9.3,1.7,1100.0
+Suame,Chamber and Hall,2,0,Yes,35.8,Furnished,Ghana Water,Yes,Untarred,No,Yes,Yes,No,10.0,8.3,3.7,710.0
+Patasi,Single Room,1,1,No,16.7,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,6.0,7.9,3.2,340.0
+Ejisu,3-Bedroom House,3,3,No,98.0,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,12.0,11.1,13.7,4570.0
+Oforikrom,2-Bedroom Apartment,2,1,No,55.4,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,Yes,Yes,12.0,3.9,6.7,3070.0
+Atonsu,1-Bedroom Apartment,1,1,No,35.2,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,4.0,8.1,5.8,1710.0
+Bomso,2-Bedroom Apartment,2,2,No,69.3,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,15.0,2.2,7.3,3380.0
+Kotei,2-Bedroom Apartment,2,2,No,66.4,Semi-furnished,Borehole,Yes,Tarred,Yes,No,Yes,Yes,4.0,3.0,8.4,3760.0
+Ayigya,4+ Bedroom House,4,4,No,152.7,Semi-furnished,Borehole,Yes,Tarred,No,No,Yes,Yes,5.0,2.0,7.0,11030.0
+Kentinkrono,Chamber and Hall,2,0,Yes,28.3,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,10.0,4.6,7.3,500.0
+Kwadaso,2-Bedroom Apartment,2,2,No,55.1,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,2.0,9.1,4.9,2770.0
+Nhyiaeso,Self-Contained,1,1,No,20.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,Yes,No,No,15.0,6.9,3.3,2140.0
+Adiembra,1-Bedroom Apartment,1,1,No,51.3,Unfurnished,Borehole,No,Untarred,No,No,No,No,8.0,10.7,5.5,1170.0
+Atonsu,2-Bedroom Apartment,2,1,No,81.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,7.0,7.6,5.0,2600.0
+Oforikrom,Self-Contained,1,1,No,21.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,21.0,3.4,6.5,720.0
+Ejisu,Chamber and Hall,2,0,Yes,32.3,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,10.0,11.4,14.7,670.0
+Kentinkrono,Single Room,1,0,Yes,13.7,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,4.0,4.3,7.8,440.0
+Suame,Self-Contained,1,1,No,20.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,4.0,9.0,1.5,720.0
+Ejisu,Self-Contained,1,1,No,31.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,20.0,11.9,14.5,980.0
+Atonsu,1-Bedroom Apartment,1,1,No,53.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,7.8,4.3,1670.0
+Ahodwo,3-Bedroom House,3,2,No,154.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,Yes,14.0,6.7,2.5,13390.0
+Tafo,Self-Contained,1,1,No,25.1,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,17.0,9.5,5.1,620.0
+Ahodwo,1-Bedroom Apartment,1,1,No,54.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,6.0,7.0,3.1,3010.0
+Kwadaso,1-Bedroom Apartment,1,1,No,39.8,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,10.0,7.9,4.6,1870.0
+Kwadaso,2-Bedroom Apartment,2,2,No,58.6,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,1.0,7.2,5.3,2750.0
+Patasi,4+ Bedroom House,5,4,No,,Semi-furnished,Ghana Water,No,Tarred,Yes,No,No,No,4.0,8.6,3.1,12630.0
+Kwadaso,3-Bedroom House,3,2,No,100.6,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,,8.5,6.4,3850.0
+Emena,Single Room,1,0,Yes,15.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,,6.2,9.7,210.0
+Kotei,3-Bedroom House,3,2,No,113.3,Unfurnished,Water tank/Poly tank,No,Untarred,No,No,Yes,Yes,5.0,2.4,8.3,4200.0
+Ayeduase,Chamber and Hall,2,0,Yes,27.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,9.0,2.5,8.9,590.0
+Ahodwo,2-Bedroom Apartment,2,2,No,85.3,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,12.0,8.1,2.9,6900.0
+Suame,1-Bedroom Apartment,1,1,No,45.0,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,10.7,3.1,1440.0
+Suame,1-Bedroom Apartment,1,1,No,45.5,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,Yes,Yes,9.0,9.0,2.5,1780.0
+Ayeduase,Self-Contained,1,1,No,24.4,Unfurnished,Borehole,Yes,Tarred,No,Yes,No,No,3.0,0.9,8.3,1680.0
+Patasi,2-Bedroom Apartment,2,2,No,73.6,Unfurnished,Water tank/Poly tank,No,Tarred,No,No,Yes,No,4.0,8.6,2.6,3430.0
+Kwadaso,2-Bedroom Apartment,2,2,No,81.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,7.0,8.6,5.8,3540.0
+Tafo,Self-Contained,1,1,No,20.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,6.0,8.8,5.7,660.0
+Oforikrom,Single Room,1,0,Yes,11.8,Unfurnished,Borehole,Yes,Tarred,Yes,No,Yes,No,30.0,1.7,6.5,260.0
+Kotei,Single Room,1,1,No,11.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,24.0,1.2,8.2,270.0
+Santasi,1-Bedroom Apartment,1,1,No,54.8,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,6.0,8.8,4.2,2910.0
+Ejisu,Chamber and Hall,2,0,Yes,36.7,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,2.0,11.0,14.3,490.0
+Ayeduase,Chamber and Hall,2,0,Yes,30.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,11.0,1.2,9.1,750.0
+Tafo,4+ Bedroom House,4,4,No,314.2,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,8.0,9.9,4.3,12130.0
+Kentinkrono,3-Bedroom House,3,3,No,97.9,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,1.0,3.9,7.6,5880.0
+Bantama,Self-Contained,1,1,No,21.9,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,7.0,7.5,2.5,780.0
+Suame,2-Bedroom Apartment,2,1,No,65.1,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,Yes,No,9.0,9.3,2.2,3130.0
+Kwadaso,Single Room,1,0,Yes,16.5,Semi-furnished,Ghana Water,Yes,Untarred,No,Yes,No,No,1.0,8.8,5.4,320.0
+Kentinkrono,Chamber and Hall,2,0,Yes,36.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,8.0,4.1,7.6,960.0
+Ejisu,1-Bedroom Apartment,1,1,No,41.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,12.0,11.1,14.3,1100.0
+Oforikrom,Self-Contained,1,1,No,24.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,12.0,3.0,6.5,920.0
+Asokwa,Single Room,1,0,Yes,13.1,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,8.0,8.8,3.4,320.0
+Ayeduase,Chamber and Hall,2,0,Yes,31.3,Furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,4.0,0.8,10.1,1190.0
+Santasi,1-Bedroom Apartment,1,1,No,50.0,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,5.0,9.1,6.0,2230.0
+Kotei,2-Bedroom Apartment,2,2,No,68.7,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,5.0,2.5,8.9,4380.0
+Bantama,1-Bedroom Apartment,1,1,No,44.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,,8.3,3.3,1310.0
+Adiembra,4+ Bedroom House,5,3,No,224.7,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,,9.6,6.1,9190.0
+Asokwa,Self-Contained,1,1,No,19.9,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,12.0,7.4,4.8,1030.0
+Asokwa,Self-Contained,1,1,No,18.9,Semi-furnished,Ghana Water,No,Tarred,No,Yes,No,No,11.0,8.2,5.6,1000.0
+Emena,Chamber and Hall,2,0,Yes,25.5,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,1.0,6.6,8.9,520.0
+Ejisu,1-Bedroom Apartment,1,1,No,,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,7.0,9.7,14.3,1610.0
+Santasi,Chamber and Hall,2,0,Yes,32.8,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,Yes,21.0,8.6,5.1,760.0
+Danyame,Chamber and Hall,2,0,Yes,37.9,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,5.9,4.7,1510.0
+Ayeduase,Self-Contained,1,1,No,30.8,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,4.0,1.4,9.4,1320.0
+Kotei,Single Room,1,0,Yes,10.9,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,Yes,12.0,1.8,8.4,330.0
+Adiembra,1-Bedroom Apartment,1,1,No,,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,1.0,10.0,6.0,1630.0
+Oforikrom,1-Bedroom Apartment,1,1,No,53.6,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,6.0,3.4,6.8,2450.0
+Asokwa,Self-Contained,1,1,No,31.3,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,14.0,8.2,5.5,1540.0
+Ayeduase,1-Bedroom Apartment,1,1,No,36.0,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,6.0,0.3,8.8,1870.0
+Kotei,2-Bedroom Apartment,2,2,No,56.5,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,Yes,5.0,3.2,8.5,3180.0
+Santasi,1-Bedroom Apartment,1,1,No,52.6,Unfurnished,Borehole,Yes,Tarred,No,Yes,Yes,No,18.0,9.3,5.5,2610.0
+Bomso,Single Room,1,0,Yes,15.5,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,0.7,6.9,460.0
+Bantama,Self-Contained,1,1,No,21.4,Semi-furnished,Borehole,No,Tarred,No,No,No,No,8.0,8.1,2.0,860.0
+Tafo,1-Bedroom Apartment,1,1,No,51.8,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,8.0,10.8,6.0,1380.0
+Oforikrom,Self-Contained,1,1,No,28.4,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,3.0,3.4,6.1,1680.0
+Ayigya,Chamber and Hall,2,0,Yes,37.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,3.0,2.9,7.6,630.0
+Ayigya,2-Bedroom Apartment,2,1,No,75.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,,1.9,7.2,3650.0
+Ahodwo,2-Bedroom Apartment,2,2,No,76.3,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,Yes,Yes,No,13.0,7.0,2.9,9660.0
+Suame,1-Bedroom Apartment,1,1,No,42.7,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,8.0,10.0,4.2,1350.0
+Kentinkrono,Chamber and Hall,2,0,Yes,35.3,Unfurnished,Ghana Water,No,Tarred,No,No,No,Yes,1.0,5.0,8.4,800.0
+Ayeduase,Single Room,1,0,Yes,11.0,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,4.0,0.8,8.1,510.0
+Emena,Single Room,1,1,No,11.2,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,3.0,7.3,8.3,260.0
+Nhyiaeso,2-Bedroom Apartment,2,1,No,84.0,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,No,No,5.0,7.1,3.5,13490.0
+Adiembra,Self-Contained,1,1,No,19.8,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,5.0,9.8,5.9,980.0
+Santasi,Self-Contained,1,1,No,28.1,Unfurnished,Borehole,No,Tarred,No,Yes,No,Yes,,9.5,4.4,1470.0
+Patasi,1-Bedroom Apartment,1,1,No,,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,12.0,8.2,3.5,1200.0
+Ayigya,Single Room,1,0,Yes,17.4,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,6.0,2.3,7.6,280.0
+Adiembra,2-Bedroom Apartment,2,2,No,68.9,Furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,Yes,No,11.0,9.1,6.0,3840.0
+Bomso,Self-Contained,1,1,No,21.2,Furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,Yes,18.0,1.3,6.4,1900.0
+Asokwa,1-Bedroom Apartment,1,1,No,40.4,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,17.0,8.1,4.3,1460.0
+Nhyiaeso,1-Bedroom Apartment,1,1,No,40.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,18.0,7.9,3.9,2280.0
+Oforikrom,1-Bedroom Apartment,1,1,No,45.3,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,4.0,2.9,7.1,1970.0
+Atonsu,2-Bedroom Apartment,2,1,No,62.2,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,11.0,6.6,5.0,2810.0
+Ejisu,Single Room,1,0,Yes,13.3,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,4.0,11.7,13.9,240.0
+Kotei,Self-Contained,1,1,No,28.9,Unfurnished,Borehole,No,Tarred,No,No,No,No,7.0,2.5,7.1,960.0
+Emena,2-Bedroom Apartment,2,2,No,86.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,2.0,6.6,8.8,3080.0
+Suame,4+ Bedroom House,4,3,No,255.4,Furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,5.0,9.6,3.4,11570.0
+Ahodwo,Chamber and Hall,2,0,Yes,25.3,Furnished,Water tank/Poly tank,Yes,Untarred,Yes,Yes,No,No,4.0,6.5,4.4,2070.0
+Danyame,3-Bedroom House,3,2,No,139.1,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,1.0,5.8,4.9,13060.0
+Bantama,1-Bedroom Apartment,1,1,No,39.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,3.0,8.1,2.1,1620.0
+Nhyiaeso,1-Bedroom Apartment,1,1,No,35.7,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,7.2,3.7,3360.0
+Kentinkrono,3-Bedroom House,3,3,No,124.7,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,22.0,3.0,7.5,8860.0
+Ayigya,Chamber and Hall,2,0,Yes,34.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,8.0,1.9,7.5,690.0
+Emena,1-Bedroom Apartment,1,1,No,44.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,14.0,6.0,8.2,1690.0
+Bomso,Single Room,1,0,Yes,16.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,11.0,2.7,6.8,320.0
+Oforikrom,Single Room,1,0,Yes,16.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,26.0,4.5,6.4,290.0
+Ahodwo,Single Room,1,0,Yes,13.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,8.0,6.8,3.1,460.0
+Emena,Chamber and Hall,2,1,No,36.7,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,5.0,7.3,9.0,700.0
+Santasi,2-Bedroom Apartment,2,2,No,64.5,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,Yes,11.0,8.1,4.5,4100.0
+Asokwa,Chamber and Hall,2,0,Yes,26.5,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,No,14.0,7.8,4.4,620.0
+Danyame,4+ Bedroom House,6,4,No,178.0,Unfurnished,Water tank/Poly tank,No,Tarred,Yes,Yes,Yes,No,12.0,6.3,3.0,23110.0
+Emena,3-Bedroom House,3,2,No,140.1,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,15.0,5.8,8.6,5180.0
+Oforikrom,3-Bedroom House,3,3,No,118.8,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,2.0,3.7,6.6,6240.0
+Atonsu,2-Bedroom Apartment,2,2,No,59.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,,7.8,4.9,3030.0
+Ayeduase,Chamber and Hall,2,0,Yes,38.8,Unfurnished,Borehole,No,Tarred,Yes,No,Yes,No,1.0,0.7,10.8,1020.0
+Kwadaso,2-Bedroom Apartment,2,2,No,65.7,Unfurnished,Ghana Water,No,Untarred,Yes,No,Yes,Yes,8.0,8.1,5.4,2330.0
+Ayeduase,Single Room,1,0,Yes,11.8,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,14.0,2.0,10.0,310.0
+Danyame,1-Bedroom Apartment,1,1,No,46.1,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,4.7,4.1,3710.0
+Emena,Self-Contained,1,1,No,22.6,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,8.0,6.6,9.5,880.0
+Atonsu,Single Room,1,0,Yes,11.8,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,8.0,7.7,4.6,300.0
+Patasi,Single Room,1,0,Yes,11.6,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,8.0,7.4,1.9,270.0
+Atonsu,Single Room,1,0,Yes,17.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,7.0,6.9,5.0,330.0
+Oforikrom,3-Bedroom House,3,2,No,150.2,Unfurnished,Borehole,Yes,Tarred,No,Yes,Yes,No,10.0,4.0,6.7,5480.0
+Ayigya,Chamber and Hall,2,0,Yes,29.7,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,8.0,3.3,7.1,860.0
+Santasi,1-Bedroom Apartment,1,1,No,43.0,Furnished,Borehole,Yes,Untarred,No,No,No,Yes,7.0,8.7,5.1,2550.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,36.0,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,6.0,4.2,7.4,2260.0
+Danyame,2-Bedroom Apartment,2,2,No,79.2,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,12.0,5.8,4.1,5610.0
+Ayeduase,Single Room,1,0,Yes,11.9,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,,1.3,7.7,340.0
+Danyame,2-Bedroom Apartment,2,2,No,62.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,Yes,No,13.0,7.6,3.2,8010.0
+Kotei,Self-Contained,1,1,No,20.2,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,7.0,2.3,8.1,980.0
+Ejisu,Self-Contained,1,1,No,27.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,11.0,13.9,830.0
+Santasi,2-Bedroom Apartment,2,2,No,68.6,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,5.0,9.4,5.8,3290.0
+Nhyiaeso,3-Bedroom House,3,3,No,97.2,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,23.0,7.6,3.3,10770.0
+Adiembra,1-Bedroom Apartment,1,1,No,52.0,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,8.0,8.0,5.0,1660.0
+Ahodwo,2-Bedroom Apartment,2,1,No,83.3,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,6.0,7.2,2.6,8620.0
+Suame,Self-Contained,1,1,No,29.8,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,5.0,8.5,2.9,1340.0
+Emena,3-Bedroom House,3,2,No,132.0,Semi-furnished,Borehole,No,Untarred,Yes,No,No,No,7.0,7.6,9.1,5710.0
+Kentinkrono,Self-Contained,1,1,No,21.5,Unfurnished,Borehole,Yes,Untarred,No,Yes,No,No,5.0,4.1,7.9,1460.0
+Bantama,4+ Bedroom House,6,5,No,220.7,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,1.0,9.6,1.5,10210.0
+Ayeduase,2-Bedroom Apartment,2,2,No,63.4,Unfurnished,Borehole,No,Tarred,No,No,Yes,No,14.0,0.6,9.2,3740.0
+Tafo,Self-Contained,1,1,No,18.7,Unfurnished,Water tank/Poly tank,No,Untarred,No,Yes,No,No,3.0,10.1,6.1,690.0
+Ayeduase,Self-Contained,1,1,No,26.4,Furnished,Borehole,Yes,Untarred,No,No,No,No,11.0,0.9,10.1,1830.0
+Oforikrom,Self-Contained,1,1,No,19.5,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,Yes,8.0,3.9,6.7,1110.0
+Ayigya,Single Room,1,1,No,11.9,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,4.0,0.7,7.9,450.0
+Suame,Single Room,1,0,Yes,15.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,9.0,9.4,3.3,240.0
+Oforikrom,2-Bedroom Apartment,2,2,No,71.8,Furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,12.0,3.3,6.8,3750.0
+Kotei,3-Bedroom House,3,2,No,93.6,Semi-furnished,Borehole,No,Untarred,No,No,No,No,,1.9,8.5,4060.0
+Ejisu,3-Bedroom House,3,3,No,108.6,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,2.0,11.6,14.5,3820.0
+Bomso,Self-Contained,1,1,No,28.3,Furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,2.0,2.6,7.2,1940.0
+Suame,2-Bedroom Apartment,2,1,No,85.9,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,4.0,9.0,2.6,3650.0
+Nhyiaeso,Self-Contained,1,1,No,22.4,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,Yes,No,No,13.0,7.3,4.1,2860.0
+Kotei,4+ Bedroom House,6,6,No,249.5,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,7.0,3.6,8.6,13080.0
+Patasi,Single Room,1,0,Yes,13.7,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,17.0,8.3,3.2,280.0
+Suame,4+ Bedroom House,4,4,No,271.9,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,Yes,12.0,8.3,2.2,9150.0
+Ayeduase,1-Bedroom Apartment,1,1,No,52.5,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,7.0,0.5,8.7,3530.0
+Emena,Self-Contained,1,1,No,23.2,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,19.0,6.3,9.2,590.0
+Bomso,Self-Contained,1,1,No,26.9,Unfurnished,Ghana Water,No,Tarred,No,No,Yes,Yes,3.0,1.7,7.4,1460.0
+Kotei,1-Bedroom Apartment,1,1,No,41.0,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,8.0,2.7,8.1,2410.0
+Ejisu,Single Room,1,0,Yes,17.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,9.0,11.2,13.9,240.0
+Tafo,Single Room,1,0,Yes,11.4,Unfurnished,Borehole,No,Untarred,No,No,No,Yes,10.0,9.6,5.2,160.0
+Ahodwo,2-Bedroom Apartment,2,2,No,69.8,Furnished,Water tank/Poly tank,Yes,Untarred,Yes,Yes,No,No,8.0,7.4,2.9,13910.0
+Kwadaso,Self-Contained,1,1,No,27.8,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,9.0,8.2,4.9,920.0
+Tafo,Chamber and Hall,2,0,Yes,31.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,,10.7,6.6,560.0
+Asokwa,2-Bedroom Apartment,2,1,No,59.4,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,3.0,8.9,4.7,2770.0
+Oforikrom,Self-Contained,1,1,No,27.3,Semi-furnished,Borehole,Yes,Untarred,No,Yes,No,Yes,2.0,3.7,6.4,1380.0
+Ayeduase,2-Bedroom Apartment,2,2,No,70.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,12.0,0.6,9.5,3210.0
+Adiembra,3-Bedroom House,3,2,No,152.4,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,22.0,9.4,6.5,5510.0
+Tafo,4+ Bedroom House,5,5,No,314.6,Semi-furnished,Borehole,Yes,Untarred,Yes,Yes,No,No,3.0,9.6,5.5,12950.0
+Suame,Chamber and Hall,2,0,Yes,27.3,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,6.0,9.8,3.6,430.0
+Ahodwo,1-Bedroom Apartment,1,1,No,45.1,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,11.0,6.2,2.9,4100.0
+Ayigya,4+ Bedroom House,6,6,No,283.1,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,Yes,17.0,3.5,7.3,15670.0
+Danyame,Chamber and Hall,2,0,Yes,36.7,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,5.0,5.9,3.3,1070.0
+Atonsu,Chamber and Hall,2,0,Yes,29.2,Semi-furnished,Borehole,No,Tarred,No,No,No,No,5.0,7.0,4.9,690.0
+Bomso,Chamber and Hall,2,0,Yes,37.3,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,34.0,2.1,7.2,550.0
+Kotei,Chamber and Hall,2,1,No,25.7,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,2.0,3.2,8.6,650.0
+Bomso,3-Bedroom House,3,3,No,152.5,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,No,Yes,7.0,1.3,7.2,7340.0
+Nhyiaeso,Self-Contained,1,1,No,18.8,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,13.0,7.1,3.5,1960.0
+Suame,2-Bedroom Apartment,2,2,No,87.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,5.0,9.2,2.7,3150.0
+Kotei,1-Bedroom Apartment,1,1,No,54.4,Furnished,Borehole,Yes,Tarred,Yes,No,No,No,14.0,3.8,9.2,3090.0
+Atonsu,Single Room,1,0,Yes,14.2,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,10.0,7.9,3.3,310.0
+Asokwa,Single Room,1,0,Yes,15.9,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,4.0,8.3,4.9,330.0
+Patasi,3-Bedroom House,3,2,No,103.4,Unfurnished,Water tank/Poly tank,No,Untarred,No,No,Yes,No,7.0,8.2,4.2,4580.0
+Bantama,Single Room,1,0,Yes,13.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,7.0,7.2,1.7,220.0
+Danyame,Self-Contained,1,1,No,30.1,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,5.5,4.2,1840.0
+Ahodwo,2-Bedroom Apartment,2,1,No,64.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,No,No,7.0,6.2,3.1,7910.0
+Ayigya,Self-Contained,1,1,No,18.6,Semi-furnished,Ghana Water,No,Tarred,No,No,Yes,Yes,6.0,2.7,8.0,1120.0
+Suame,Self-Contained,1,1,No,26.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,5.0,8.1,4.0,890.0
+Kwadaso,2-Bedroom Apartment,2,1,No,79.0,Semi-furnished,Borehole,Yes,Tarred,Yes,No,Yes,No,13.0,7.8,5.5,3490.0
+Nhyiaeso,1-Bedroom Apartment,1,1,No,41.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,7.6,3.4,3080.0
+Danyame,2-Bedroom Apartment,2,2,No,79.1,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,Yes,No,No,5.0,6.3,3.1,9600.0
+Ayeduase,Single Room,1,0,Yes,13.0,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,7.0,2.1,8.8,340.0
+Bantama,Self-Contained,1,1,No,,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,7.7,3.1,1170.0
+Tafo,Single Room,1,0,Yes,14.2,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,6.0,11.2,6.0,200.0
+Adiembra,Self-Contained,1,1,No,22.5,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,12.0,9.6,6.6,970.0
+Ayeduase,2-Bedroom Apartment,2,2,No,88.7,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,4.0,0.5,9.4,4620.0
+Suame,3-Bedroom House,3,2,No,150.3,Unfurnished,Water tank/Poly tank,No,Tarred,Yes,No,No,No,3.0,9.4,3.9,5860.0
+Bomso,3-Bedroom House,3,2,No,124.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,Yes,6.0,3.1,6.8,5570.0
+Suame,3-Bedroom House,3,3,No,142.9,Semi-furnished,Borehole,Yes,Untarred,No,No,No,Yes,3.0,9.0,2.0,5440.0
+Ayeduase,3-Bedroom House,3,3,No,118.5,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,2.0,1.5,10.1,7110.0
+Bantama,3-Bedroom House,3,2,No,151.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,3.0,8.6,2.2,6000.0
+Oforikrom,2-Bedroom Apartment,2,1,No,76.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,5.0,4.3,6.4,3100.0
+Bantama,1-Bedroom Apartment,1,1,No,54.1,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,3.0,7.8,3.6,2220.0
+Suame,Chamber and Hall,2,1,No,30.5,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,15.0,9.7,2.1,630.0
+Suame,Chamber and Hall,2,0,Yes,,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,7.0,9.7,3.1,540.0
+Kotei,Self-Contained,1,1,No,19.5,Furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,Yes,19.0,2.8,9.2,1420.0
+Santasi,Single Room,1,0,Yes,12.0,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,5.0,8.3,5.5,330.0
+Kentinkrono,Single Room,1,0,Yes,14.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,2.0,4.9,7.6,370.0
+Bomso,1-Bedroom Apartment,1,1,No,50.0,Furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,17.0,1.8,6.4,3120.0
+Ejisu,2-Bedroom Apartment,2,2,No,63.4,Semi-furnished,Ghana Water,Yes,Untarred,No,Yes,Yes,Yes,8.0,11.0,14.1,2640.0
+Bomso,2-Bedroom Apartment,2,2,No,59.6,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,11.0,2.5,6.1,3340.0
+Suame,4+ Bedroom House,6,4,No,287.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,1.0,8.6,3.1,9790.0
+Tafo,Self-Contained,1,1,No,21.7,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,13.0,10.7,5.4,710.0
+Bantama,3-Bedroom House,3,3,No,158.4,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,9.0,9.3,3.5,6610.0
+Tafo,Chamber and Hall,2,0,Yes,26.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,6.0,9.9,5.4,570.0
+Suame,Self-Contained,1,1,No,28.3,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,5.0,9.4,2.4,920.0
+Danyame,1-Bedroom Apartment,1,1,No,40.3,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,No,No,6.0,5.1,3.0,4130.0
+Santasi,1-Bedroom Apartment,1,1,No,54.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,9.0,5.7,2200.0
+Bomso,3-Bedroom House,3,3,No,123.4,Furnished,Borehole,No,Untarred,No,No,Yes,No,2.0,1.6,7.6,7770.0
+Patasi,Single Room,1,1,No,12.8,Unfurnished,Ghana Water,No,Untarred,Yes,No,No,No,19.0,8.9,3.1,250.0
+Oforikrom,Chamber and Hall,2,1,No,38.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,8.0,3.0,5.3,740.0
+Patasi,2-Bedroom Apartment,2,2,No,82.9,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,8.0,7.9,3.0,2810.0
+Nhyiaeso,2-Bedroom Apartment,2,2,No,82.7,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,15.0,7.3,3.2,14610.0
+Ayigya,Self-Contained,1,1,No,30.9,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,3.0,2.5,7.2,1240.0
+Ejisu,Single Room,1,0,Yes,16.6,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,6.0,11.2,14.3,380.0
+Bomso,Single Room,1,0,Yes,11.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,11.0,2.2,7.6,290.0
+Adiembra,Chamber and Hall,2,0,Yes,30.3,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,14.0,8.8,6.8,650.0
+Ayeduase,Chamber and Hall,2,0,Yes,29.0,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,4.0,1.2,9.1,820.0
+Patasi,4+ Bedroom House,4,4,No,310.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,5.0,7.0,3.4,15230.0
+Ejisu,2-Bedroom Apartment,2,2,No,79.5,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,17.0,9.6,13.6,3100.0
+Bantama,2-Bedroom Apartment,2,2,No,73.4,Unfurnished,Ghana Water,No,Tarred,No,No,Yes,No,4.0,9.3,1.5,3250.0
+Atonsu,Single Room,1,0,Yes,16.4,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,,7.2,6.1,240.0
+Atonsu,Chamber and Hall,2,0,Yes,28.2,Unfurnished,Borehole,Yes,Tarred,No,No,No,Yes,5.0,7.7,6.0,620.0
+Patasi,Chamber and Hall,2,0,Yes,28.1,Furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,5.0,8.1,3.1,720.0
+Suame,2-Bedroom Apartment,2,2,No,87.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,6.0,9.3,3.8,2740.0
+Kwadaso,2-Bedroom Apartment,2,2,No,84.9,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,6.0,7.8,6.2,2560.0
+Kentinkrono,Self-Contained,1,1,No,29.5,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,15.0,4.4,8.3,1660.0
+Santasi,Chamber and Hall,2,0,Yes,39.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,9.0,8.2,3.7,910.0
+Tafo,Chamber and Hall,2,0,Yes,37.4,Unfurnished,Borehole,No,Tarred,Yes,No,No,No,2.0,9.5,4.3,610.0
+Ayigya,2-Bedroom Apartment,2,1,No,85.1,Semi-furnished,Borehole,No,Tarred,No,No,No,Yes,6.0,1.7,7.0,3200.0
+Ayeduase,4+ Bedroom House,4,3,No,170.5,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,5.0,0.5,9.5,10420.0
+Kentinkrono,Chamber and Hall,2,0,Yes,26.0,Unfurnished,Ghana Water,No,Tarred,No,No,No,Yes,15.0,4.3,8.8,620.0
+Atonsu,Single Room,1,1,No,13.7,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,3.0,6.6,5.4,300.0
+Adiembra,3-Bedroom House,3,2,No,155.9,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,No,15.0,8.9,5.6,6010.0
+Ahodwo,Chamber and Hall,2,0,Yes,34.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,6.0,6.9,3.5,1020.0
+Kwadaso,Self-Contained,1,1,No,30.3,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,7.0,8.8,6.0,1280.0
+Kwadaso,Self-Contained,1,1,No,19.2,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,2.0,9.1,5.7,1100.0
+Danyame,2-Bedroom Apartment,2,2,No,89.6,Furnished,Ghana Water,No,Untarred,Yes,Yes,Yes,No,12.0,4.8,4.4,10640.0
+Patasi,2-Bedroom Apartment,2,2,No,86.5,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,13.0,9.6,3.7,3510.0
+Bomso,2-Bedroom Apartment,2,2,No,82.1,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,7.0,1.7,7.0,4260.0
+Patasi,1-Bedroom Apartment,1,1,No,40.4,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,Yes,3.0,8.5,2.5,1580.0
+Bantama,2-Bedroom Apartment,2,1,No,68.3,Semi-furnished,Ghana Water,Yes,Untarred,No,Yes,No,No,9.0,8.7,2.5,2390.0
+Kentinkrono,Chamber and Hall,2,0,Yes,25.2,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,12.0,3.8,9.1,650.0
+Emena,Self-Contained,1,1,No,29.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,5.6,9.0,720.0
+Emena,Single Room,1,0,Yes,11.7,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,4.0,5.6,8.7,230.0
+Patasi,Self-Contained,1,1,No,28.5,Unfurnished,Borehole,Yes,Tarred,Yes,Yes,No,No,16.0,8.6,2.2,1300.0
+Adiembra,Chamber and Hall,2,0,Yes,32.9,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,5.0,9.5,5.6,580.0
+Danyame,Chamber and Hall,2,1,No,28.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,5.8,2.8,970.0
+Ejisu,2-Bedroom Apartment,2,2,No,70.6,Semi-furnished,Ghana Water,No,Untarred,No,No,Yes,No,4.0,11.8,13.4,2500.0
+Santasi,3-Bedroom House,3,2,No,109.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,1.0,8.5,5.2,6330.0
+Suame,2-Bedroom Apartment,2,2,No,73.7,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,11.0,9.3,2.9,2980.0
+Atonsu,Self-Contained,1,1,No,22.3,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,10.0,6.9,4.8,860.0
+Asokwa,4+ Bedroom House,6,4,No,286.4,Furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,4.0,7.7,4.3,17760.0
+Ayeduase,2-Bedroom Apartment,2,1,No,85.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,Yes,3.0,1.8,9.3,4960.0
+Ayeduase,Self-Contained,1,1,No,24.4,Furnished,Ghana Water,No,Untarred,No,No,No,No,5.0,0.5,7.1,1680.0
+Kentinkrono,4+ Bedroom House,6,4,No,284.6,Unfurnished,Ghana Water,No,Untarred,No,No,Yes,No,10.0,3.3,7.6,12200.0
+Santasi,1-Bedroom Apartment,1,1,No,51.0,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,14.0,7.9,4.5,2570.0
+Oforikrom,Chamber and Hall,2,0,Yes,35.9,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,Yes,7.0,3.8,6.6,650.0
+Kwadaso,1-Bedroom Apartment,1,1,No,39.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,10.0,7.3,6.4,1580.0
+Emena,Single Room,1,0,Yes,16.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,9.0,6.4,9.7,310.0
+Atonsu,Self-Contained,1,1,No,19.0,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,2.0,8.1,4.9,840.0
+Santasi,3-Bedroom House,3,3,No,148.9,Furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,Yes,2.0,8.8,4.4,15590.0
+Atonsu,Self-Contained,1,1,No,25.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,8.4,4.9,1060.0
+Atonsu,Self-Contained,1,1,No,23.8,Furnished,Borehole,Yes,Tarred,No,No,No,No,11.0,6.8,3.5,1190.0
+Ayeduase,Self-Contained,1,1,No,29.3,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,16.0,2.1,8.7,2130.0
+Ejisu,Self-Contained,1,1,No,19.6,Furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,5.0,10.7,13.3,910.0
+Nhyiaeso,Self-Contained,1,1,No,21.9,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,3.0,6.8,3.2,2660.0
+Ayeduase,1-Bedroom Apartment,1,1,No,43.1,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,10.0,0.4,8.1,1890.0
+Suame,Single Room,1,0,Yes,13.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,17.0,9.0,3.2,160.0
+Tafo,Chamber and Hall,2,0,Yes,37.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,10.2,5.2,400.0
+Atonsu,Self-Contained,1,1,No,19.9,Furnished,Borehole,Yes,Tarred,No,Yes,No,Yes,7.0,7.5,4.5,1420.0
+Tafo,Chamber and Hall,2,0,Yes,35.6,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,6.0,11.0,5.5,660.0
+Ejisu,2-Bedroom Apartment,2,2,No,62.2,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,6.0,10.5,14.1,2830.0
+Emena,Self-Contained,1,1,No,21.9,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,4.0,6.2,9.4,890.0
+Asokwa,4+ Bedroom House,5,5,No,255.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,14.0,7.4,4.5,15910.0
+Santasi,Single Room,1,0,Yes,15.8,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,No,No,6.0,7.9,5.7,470.0
+Ayigya,2-Bedroom Apartment,2,1,No,84.8,Semi-furnished,Ghana Water,Yes,Tarred,Yes,Yes,Yes,Yes,4.0,2.6,7.8,5020.0
+Santasi,Self-Contained,1,1,No,30.3,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,3.0,9.5,5.7,1540.0
+Kwadaso,2-Bedroom Apartment,2,2,No,88.9,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,Yes,6.0,8.3,5.2,4000.0
+Tafo,Single Room,1,0,Yes,15.1,Semi-furnished,Ghana Water,No,Tarred,Yes,No,No,Yes,6.0,9.9,5.9,200.0
+Nhyiaeso,2-Bedroom Apartment,2,2,No,,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,14.0,8.2,2.9,9970.0
+Santasi,Single Room,1,0,Yes,15.0,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,3.0,9.0,5.0,370.0
+Ejisu,2-Bedroom Apartment,2,2,No,71.2,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,Yes,Yes,5.0,11.0,14.6,3440.0
+Emena,3-Bedroom House,3,2,No,100.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,6.6,9.6,4260.0
+Danyame,2-Bedroom Apartment,2,1,No,69.3,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,5.0,6.2,2.8,5880.0
+Danyame,Self-Contained,1,1,No,25.2,Furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,4.0,6.1,3.5,2650.0
+Santasi,2-Bedroom Apartment,2,1,No,75.4,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,,7.8,4.7,4280.0
+Kotei,2-Bedroom Apartment,2,1,No,73.9,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,23.0,2.7,8.6,2880.0
+Bantama,Self-Contained,1,1,No,30.8,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,9.4,1.7,1020.0
+Adiembra,2-Bedroom Apartment,2,2,No,86.0,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,14.0,9.1,5.3,3110.0
+Kotei,3-Bedroom House,3,3,No,152.6,Unfurnished,Ghana Water,No,Untarred,Yes,No,Yes,Yes,18.0,3.0,8.6,6410.0
+Tafo,2-Bedroom Apartment,2,2,No,70.2,Unfurnished,Borehole,No,Tarred,Yes,No,Yes,No,,8.6,5.6,2920.0
+Kotei,1-Bedroom Apartment,1,1,No,48.9,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,3.0,2.9,9.5,2460.0
+Ayeduase,4+ Bedroom House,6,6,No,309.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,4.0,1.0,8.5,16070.0
+Nhyiaeso,2-Bedroom Apartment,2,1,No,77.8,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,15.0,7.3,3.2,7520.0
+Bantama,Chamber and Hall,2,0,Yes,28.8,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,1.0,8.3,1.9,520.0
+Suame,Single Room,1,1,No,10.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,12.0,8.2,2.9,210.0
+Bomso,1-Bedroom Apartment,1,1,No,39.3,Unfurnished,Borehole,Yes,Tarred,No,No,No,Yes,5.0,2.6,7.7,1790.0
+Ahodwo,2-Bedroom Apartment,2,2,No,82.8,Furnished,Ghana Water,Yes,Tarred,Yes,No,Yes,Yes,14.0,7.9,2.2,11290.0
+Ayeduase,Self-Contained,1,1,No,28.8,Furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,3.0,2.3,10.2,2610.0
+Kentinkrono,Single Room,1,1,No,11.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,2.0,3.4,7.1,250.0
+Tafo,3-Bedroom House,3,2,No,153.8,Unfurnished,Ghana Water,No,Untarred,No,No,No,Yes,21.0,10.3,5.2,3270.0
+Bomso,3-Bedroom House,3,3,No,131.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,6.0,1.6,7.6,7100.0
+Santasi,Single Room,1,0,Yes,14.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,9.0,8.3,5.0,280.0
+Oforikrom,1-Bedroom Apartment,1,1,No,37.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,,4.0,7.2,1790.0
+Nhyiaeso,2-Bedroom Apartment,2,2,No,72.0,Unfurnished,Borehole,Yes,Tarred,No,Yes,Yes,No,6.0,8.4,3.8,7640.0
+Oforikrom,Self-Contained,1,1,No,28.5,Furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,6.0,2.6,6.2,1510.0
+Nhyiaeso,1-Bedroom Apartment,1,1,No,40.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,20.0,8.1,2.8,3300.0
+Bomso,Chamber and Hall,2,0,Yes,29.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,9.0,1.8,6.6,570.0
+Kotei,4+ Bedroom House,4,3,No,213.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,24.0,2.6,7.7,9360.0
+Bomso,2-Bedroom Apartment,2,2,No,85.1,Unfurnished,Ghana Water,No,Tarred,No,No,Yes,No,3.0,1.8,7.3,3730.0
+Ahodwo,4+ Bedroom House,6,5,No,282.7,Unfurnished,Borehole,No,Tarred,No,Yes,No,Yes,4.0,6.2,3.9,29880.0
+Tafo,2-Bedroom Apartment,2,2,No,61.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,15.0,10.8,6.4,2240.0
+Ayeduase,4+ Bedroom House,4,4,No,243.3,Furnished,Borehole,Yes,Untarred,No,Yes,No,Yes,27.0,0.7,8.2,15690.0
+Ayeduase,Chamber and Hall,2,0,Yes,30.6,Unfurnished,Borehole,No,Tarred,No,No,No,Yes,8.0,1.6,9.2,880.0
+Santasi,2-Bedroom Apartment,2,1,No,73.0,Unfurnished,Ghana Water,No,Tarred,Yes,No,No,Yes,9.0,8.5,4.2,3690.0
+Ahodwo,3-Bedroom House,3,3,No,141.0,Semi-furnished,Borehole,Yes,Tarred,Yes,Yes,Yes,No,,7.6,2.9,18500.0
+Bomso,Self-Contained,1,1,No,25.6,Furnished,Borehole,Yes,Untarred,No,No,No,Yes,2.0,2.3,6.9,1620.0
+Kwadaso,Single Room,1,1,No,15.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,1.0,7.5,6.7,350.0
+Bomso,2-Bedroom Apartment,2,2,No,76.7,Unfurnished,Borehole,Yes,Tarred,Yes,No,No,Yes,17.0,2.1,6.6,4360.0
+Bomso,Single Room,1,1,No,10.5,Furnished,Ghana Water,No,Tarred,No,No,No,No,7.0,2.2,7.0,470.0
+Kotei,Self-Contained,1,1,No,21.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,13.0,1.9,9.5,1110.0
+Asokwa,3-Bedroom House,3,3,No,125.5,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,6.0,8.0,5.0,6860.0
+Ayeduase,Self-Contained,1,1,No,21.1,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,7.0,1.2,9.0,1610.0
+Atonsu,Self-Contained,1,1,No,20.0,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,9.0,7.5,5.6,830.0
+Asokwa,Single Room,1,0,Yes,16.2,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,8.3,4.9,550.0
+Ayigya,3-Bedroom House,3,3,No,124.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,11.0,1.5,7.6,5410.0
+Suame,3-Bedroom House,3,3,No,97.4,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,4.0,9.6,3.1,5070.0
+Atonsu,Self-Contained,1,1,No,19.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,9.0,7.3,6.0,990.0
+Asokwa,Chamber and Hall,2,0,Yes,27.7,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,17.0,7.5,4.0,620.0
+Bomso,1-Bedroom Apartment,1,1,No,42.0,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,6.0,2.2,7.0,1670.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,45.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,6.0,3.5,6.3,1910.0
+Kwadaso,Self-Contained,1,1,No,19.0,Unfurnished,Borehole,No,Tarred,No,No,No,No,1.0,7.7,5.7,810.0
+Kentinkrono,4+ Bedroom House,5,3,No,283.1,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,12.0,3.6,7.5,13150.0
+Ayeduase,1-Bedroom Apartment,1,1,No,40.3,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,14.0,0.7,9.0,2240.0
+Ayeduase,2-Bedroom Apartment,2,1,No,81.4,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,4.0,0.6,8.6,3300.0
+Santasi,Self-Contained,1,1,No,19.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,4.0,9.0,3.8,1400.0
+Ayeduase,Chamber and Hall,2,0,Yes,32.5,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,6.0,0.7,9.7,1130.0
+Ayeduase,Self-Contained,1,1,No,20.4,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,Yes,11.0,1.7,9.4,2130.0
+Santasi,Self-Contained,1,1,No,25.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,8.5,5.0,1120.0
+Ayeduase,2-Bedroom Apartment,2,1,No,87.1,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,6.0,0.7,8.8,4630.0
+Santasi,3-Bedroom House,3,3,No,160.0,Unfurnished,Ghana Water,No,Untarred,No,No,Yes,No,6.0,9.1,4.6,6400.0
+Bantama,Single Room,1,0,Yes,15.8,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,14.0,7.7,1.3,290.0
+Bomso,Self-Contained,1,1,No,25.2,Furnished,Borehole,Yes,Tarred,No,No,No,No,3.0,2.1,7.5,1890.0
+Kotei,3-Bedroom House,3,2,No,132.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,11.0,2.7,9.3,6220.0
+Ejisu,4+ Bedroom House,5,5,No,153.0,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,6.0,10.4,15.4,5900.0
+Asokwa,Self-Contained,1,1,No,27.8,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,21.0,7.4,4.7,1090.0
+Tafo,4+ Bedroom House,4,4,No,170.8,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,9.0,10.2,5.7,7440.0
+Bomso,4+ Bedroom House,4,4,No,219.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,2.0,1.6,6.8,13390.0
+Tafo,Self-Contained,1,1,No,27.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,8.0,9.5,4.3,1050.0
+Ayeduase,Chamber and Hall,2,0,Yes,37.5,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,12.0,1.4,9.2,1490.0
+Adiembra,Chamber and Hall,2,0,Yes,40.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,12.0,11.2,6.3,530.0
+Atonsu,Chamber and Hall,2,1,No,31.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,9.0,7.5,5.4,680.0
+Kotei,Self-Contained,1,1,No,28.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,2.0,1.2,8.4,1560.0
+Asokwa,2-Bedroom Apartment,2,2,No,65.2,Semi-furnished,Ghana Water,Yes,Untarred,No,Yes,Yes,No,21.0,8.7,5.1,3070.0
+Tafo,3-Bedroom House,3,3,No,113.7,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,4.0,9.9,4.8,3840.0
+Atonsu,3-Bedroom House,3,2,No,116.3,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,5.0,6.9,5.2,5350.0
+Kwadaso,2-Bedroom Apartment,2,2,No,81.4,Semi-furnished,Borehole,Yes,Untarred,No,No,Yes,No,1.0,9.0,5.1,3790.0
+Ayigya,4+ Bedroom House,4,3,No,220.7,Furnished,Borehole,Yes,Tarred,No,Yes,No,No,3.0,2.2,7.4,15010.0
+Santasi,Single Room,1,0,Yes,11.7,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,12.0,9.7,4.8,320.0
+Ejisu,1-Bedroom Apartment,1,1,No,45.1,Furnished,Ghana Water,No,Untarred,No,No,No,No,10.0,10.5,14.0,1380.0
+Tafo,3-Bedroom House,3,3,No,132.1,Furnished,Ghana Water,No,Untarred,No,No,No,Yes,10.0,11.4,5.5,4980.0
+Atonsu,Chamber and Hall,2,0,Yes,27.1,Semi-furnished,Borehole,No,Tarred,Yes,No,No,No,1.0,7.9,5.3,760.0
+Danyame,2-Bedroom Apartment,2,2,No,85.2,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,2.0,5.8,4.7,6300.0
+Oforikrom,Chamber and Hall,2,0,Yes,33.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,1.0,4.1,6.0,730.0
+Kentinkrono,3-Bedroom House,3,2,No,98.5,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,Yes,11.0,4.6,8.3,6950.0
+Ejisu,Single Room,1,0,Yes,16.9,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,1.0,9.9,14.5,280.0
+Ayigya,Chamber and Hall,2,1,No,39.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,2.0,2.0,6.9,820.0
+Ayeduase,Single Room,1,0,Yes,11.8,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,17.0,1.9,9.8,390.0
+Patasi,2-Bedroom Apartment,2,1,No,67.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,26.0,8.1,3.3,2200.0
+Emena,1-Bedroom Apartment,1,1,No,46.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,5.7,9.2,1420.0
+Bantama,Chamber and Hall,2,1,No,37.1,Semi-furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,4.0,9.1,3.0,820.0
+Adiembra,4+ Bedroom House,5,3,No,198.2,Furnished,Borehole,Yes,Untarred,No,No,No,No,,8.5,6.6,9920.0
+Ayeduase,Chamber and Hall,2,1,No,32.6,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,3.0,0.8,8.8,1160.0
+Ahodwo,3-Bedroom House,3,3,No,97.2,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,Yes,5.0,6.8,2.0,12380.0
+Suame,2-Bedroom Apartment,2,2,No,60.7,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,6.0,8.7,2.2,2570.0
+Ejisu,2-Bedroom Apartment,2,2,No,79.3,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,Yes,6.0,10.6,14.3,3170.0
+Kentinkrono,Chamber and Hall,2,0,Yes,33.2,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,17.0,3.4,8.7,800.0
+Kotei,Chamber and Hall,2,0,Yes,35.2,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,8.0,2.0,7.9,1220.0
+Ejisu,Self-Contained,1,1,No,24.3,Semi-furnished,Ghana Water,No,Untarred,No,No,No,No,5.0,10.5,14.4,830.0
+Adiembra,Single Room,1,0,Yes,11.6,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,21.0,9.9,6.6,250.0
+Patasi,Self-Contained,1,1,No,18.1,Furnished,Borehole,Yes,Tarred,No,No,No,No,9.0,7.3,2.7,1230.0
+Emena,Chamber and Hall,2,0,Yes,32.1,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,8.0,7.6,9.3,580.0
+Oforikrom,Self-Contained,1,1,No,22.5,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,4.0,3.5,7.5,1100.0
+Nhyiaeso,Self-Contained,1,1,No,27.4,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,9.0,7.8,3.8,1820.0
+Kwadaso,Chamber and Hall,2,0,Yes,39.3,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,19.0,7.9,5.0,620.0
+Kotei,Single Room,1,0,Yes,10.4,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,2.5,8.6,320.0
+Bantama,Single Room,1,0,Yes,17.3,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,8.7,3.0,340.0
+Kwadaso,Chamber and Hall,2,0,Yes,38.7,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,12.0,7.3,5.4,750.0
+Kwadaso,3-Bedroom House,3,3,No,153.4,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,9.0,7.9,6.5,5830.0
+Ayeduase,Self-Contained,1,1,No,28.7,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,7.0,0.5,9.9,2420.0
+Ayeduase,3-Bedroom House,3,3,No,105.3,Unfurnished,Ghana Water,No,Tarred,No,No,Yes,No,5.0,1.9,9.4,4590.0
+Danyame,2-Bedroom Apartment,2,2,No,78.3,Unfurnished,Ghana Water,No,Tarred,Yes,No,Yes,No,8.0,5.0,3.3,6080.0
+Ayeduase,Single Room,1,0,Yes,17.4,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,15.0,1.4,8.7,430.0
+Bantama,2-Bedroom Apartment,2,2,No,63.3,Semi-furnished,Borehole,Yes,Untarred,No,Yes,No,No,11.0,9.0,1.9,3080.0
+Suame,1-Bedroom Apartment,1,1,No,39.5,Unfurnished,Borehole,Yes,Untarred,No,Yes,No,No,7.0,9.4,2.5,1300.0
+Kwadaso,Self-Contained,1,1,No,27.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,7.5,5.7,880.0
+Nhyiaeso,Self-Contained,1,1,No,22.3,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,11.0,7.3,3.4,3150.0
+Ahodwo,2-Bedroom Apartment,2,2,No,80.0,Furnished,Borehole,Yes,Tarred,No,No,Yes,Yes,2.0,7.1,3.5,9420.0
+Nhyiaeso,1-Bedroom Apartment,1,1,No,42.9,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,9.0,7.2,3.6,3650.0
+Oforikrom,4+ Bedroom House,6,4,No,,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,10.0,3.0,6.0,10250.0
+Kwadaso,3-Bedroom House,3,2,No,94.8,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,3.0,8.2,6.0,4640.0
+Bomso,2-Bedroom Apartment,2,1,No,88.7,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,9.0,1.4,6.2,3660.0
+Ahodwo,Chamber and Hall,2,0,Yes,29.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,7.2,3.8,1010.0
+Oforikrom,Chamber and Hall,2,0,Yes,38.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,13.0,4.0,6.8,720.0
+Suame,Single Room,1,0,Yes,15.6,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,,8.2,2.5,250.0
+Ejisu,Single Room,1,1,No,13.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,4.0,10.0,13.8,340.0
+Bomso,Chamber and Hall,2,0,Yes,28.4,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,23.0,2.5,7.8,520.0
+Kwadaso,Self-Contained,1,1,No,20.0,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,10.0,8.0,4.9,950.0
+Ayigya,4+ Bedroom House,6,4,No,318.9,Furnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,10.0,2.2,7.7,15350.0
+Suame,1-Bedroom Apartment,1,1,No,50.1,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,4.0,9.1,4.1,1670.0
+Asokwa,1-Bedroom Apartment,1,1,No,46.8,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,2.0,7.9,3.9,1970.0
+Atonsu,Self-Contained,1,1,No,23.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,18.0,8.1,5.4,630.0
+Oforikrom,4+ Bedroom House,5,5,No,190.8,Semi-furnished,Ghana Water,No,Untarred,No,Yes,Yes,No,13.0,3.8,6.5,7930.0
+Oforikrom,Single Room,1,0,Yes,14.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,4.0,3.8,6.0,300.0
+Ahodwo,1-Bedroom Apartment,1,1,No,,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,7.0,7.8,2.9,2630.0
+Ahodwo,Chamber and Hall,2,0,Yes,27.6,Unfurnished,Ghana Water,No,Untarred,No,Yes,No,No,8.0,7.3,2.2,1140.0
+Asokwa,Chamber and Hall,2,1,No,,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,13.0,6.7,4.5,520.0
+Ayeduase,Single Room,1,0,Yes,12.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,12.0,1.1,8.6,330.0
+Nhyiaeso,2-Bedroom Apartment,2,1,No,67.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,13.0,7.3,4.5,4540.0
+Kwadaso,Chamber and Hall,2,1,No,27.2,Unfurnished,Borehole,Yes,Tarred,Yes,Yes,No,No,11.0,7.9,5.6,690.0
+Ayigya,1-Bedroom Apartment,1,1,No,51.2,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,16.0,1.7,7.3,2380.0
+Oforikrom,Single Room,1,0,Yes,15.4,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,20.0,2.7,6.0,340.0
+Bantama,1-Bedroom Apartment,1,1,No,36.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,9.2,2.2,1160.0
+Adiembra,Self-Contained,1,1,No,22.0,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,5.0,9.6,6.8,1250.0
+Bomso,Chamber and Hall,2,1,No,31.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,4.0,1.6,6.0,800.0
+Nhyiaeso,Self-Contained,1,1,No,28.3,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,1.0,7.8,4.3,3120.0
+Oforikrom,Single Room,1,0,Yes,15.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,5.0,4.2,6.0,330.0
+Bantama,Chamber and Hall,2,0,Yes,26.8,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,9.2,2.3,600.0
+Bantama,Single Room,1,0,Yes,12.2,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,,8.1,2.1,230.0
+Kentinkrono,2-Bedroom Apartment,2,2,No,79.1,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,20.0,4.4,7.8,4140.0
+Ayigya,1-Bedroom Apartment,1,1,No,50.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,4.0,2.0,7.1,1900.0
+Kentinkrono,2-Bedroom Apartment,2,2,No,60.1,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,6.0,3.5,7.7,4010.0
+Bantama,4+ Bedroom House,4,4,No,173.3,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,7.0,8.8,3.7,8360.0
+Kentinkrono,4+ Bedroom House,5,4,No,234.9,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,2.0,4.6,7.6,15350.0
+Ejisu,Single Room,1,0,Yes,15.7,Unfurnished,Water tank/Poly tank,No,Tarred,No,No,No,No,25.0,10.6,14.3,230.0
+Danyame,Single Room,1,0,Yes,14.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,6.0,6.6,3.4,400.0
+Atonsu,Self-Contained,1,1,No,19.4,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,Yes,No,,7.4,5.2,1400.0
+Oforikrom,1-Bedroom Apartment,1,1,No,44.2,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,8.0,4.8,5.2,2120.0
+Santasi,Chamber and Hall,2,0,Yes,28.9,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,12.0,9.0,5.7,800.0
+Bantama,2-Bedroom Apartment,2,2,No,77.0,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,15.0,8.5,2.8,2550.0
+Asokwa,4+ Bedroom House,4,4,No,259.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,5.0,8.0,4.3,12840.0
+Ahodwo,3-Bedroom House,3,2,No,146.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,Yes,Yes,No,11.0,7.7,4.0,13890.0
+Danyame,3-Bedroom House,3,3,No,107.2,Furnished,Borehole,Yes,Untarred,No,No,Yes,No,6.0,6.1,3.9,11070.0
+Suame,Self-Contained,1,1,No,28.3,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,1.0,9.3,2.4,890.0
+Danyame,3-Bedroom House,3,3,No,119.8,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,13.0,6.1,3.5,14100.0
+Ayigya,Chamber and Hall,2,1,No,30.1,Semi-furnished,Water tank/Poly tank,No,Untarred,No,No,No,No,,3.2,7.2,750.0
+Nhyiaeso,3-Bedroom House,3,3,No,143.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,Yes,Yes,4.0,7.5,4.1,18580.0
+Bantama,Single Room,1,0,Yes,15.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,2.0,9.4,1.2,300.0
+Patasi,2-Bedroom Apartment,2,2,No,65.5,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,16.0,7.4,2.1,2670.0
+Bomso,3-Bedroom House,3,3,No,137.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,3.0,2.0,7.2,5650.0
+Oforikrom,4+ Bedroom House,6,5,No,308.3,Semi-furnished,Borehole,Yes,Untarred,No,No,Yes,No,2.0,3.6,6.7,12740.0
+Kotei,Chamber and Hall,2,0,Yes,39.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,3.0,3.4,9.0,750.0
+Bantama,Chamber and Hall,2,0,Yes,25.8,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,2.0,9.4,2.3,460.0
+Santasi,Chamber and Hall,2,0,Yes,28.5,Furnished,Water tank/Poly tank,Yes,Tarred,No,Yes,No,Yes,9.0,10.3,6.2,1110.0
+Suame,1-Bedroom Apartment,1,1,No,52.3,Unfurnished,Borehole,Yes,Tarred,No,No,No,Yes,5.0,8.1,3.1,1460.0
+Bomso,Self-Contained,1,1,No,18.5,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,14.0,1.3,7.9,1520.0
+Asokwa,Chamber and Hall,2,1,No,27.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,8.5,3.6,740.0
+Ahodwo,2-Bedroom Apartment,2,2,No,87.7,Semi-furnished,Water tank/Poly tank,No,Tarred,Yes,No,No,No,7.0,4.8,2.6,8780.0
+Bomso,Self-Contained,1,1,No,,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,14.0,2.4,7.1,1250.0
+Kotei,Chamber and Hall,2,1,No,29.7,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,5.0,3.2,9.1,760.0
+Santasi,3-Bedroom House,3,2,No,129.9,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,7.0,9.1,4.4,7430.0
+Ahodwo,1-Bedroom Apartment,1,1,No,38.9,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,5.0,6.9,1.7,3990.0
+Santasi,Chamber and Hall,2,1,No,37.4,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,8.7,4.1,1250.0
+Asokwa,Chamber and Hall,2,0,Yes,39.4,Unfurnished,Borehole,No,Tarred,No,No,No,Yes,2.0,8.0,4.3,960.0
+Bomso,2-Bedroom Apartment,2,2,No,56.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,11.0,2.9,7.3,2750.0
+Ayeduase,Self-Contained,1,1,No,28.9,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,Yes,10.0,0.6,9.5,1560.0
+Bomso,Chamber and Hall,2,0,Yes,26.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,Yes,2.0,2.8,7.3,710.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,47.0,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,No,8.0,4.1,8.3,2140.0
+Asokwa,Chamber and Hall,2,0,Yes,30.7,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,13.0,9.2,4.6,1090.0
+Kwadaso,Chamber and Hall,2,0,Yes,37.1,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,2.0,8.3,5.4,1030.0
+Adiembra,1-Bedroom Apartment,1,1,No,52.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,9.5,7.0,2130.0
+Ayigya,3-Bedroom House,3,3,No,105.0,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,No,No,7.0,1.5,7.3,5420.0
+Ayigya,Self-Contained,1,1,No,19.4,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,23.0,2.3,7.7,800.0
+Bomso,Chamber and Hall,2,1,No,30.9,Unfurnished,Ghana Water,No,Untarred,No,No,No,Yes,3.0,1.8,8.1,640.0
+Nhyiaeso,4+ Bedroom House,5,3,No,309.6,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,11.0,7.3,3.9,46640.0
+Adiembra,4+ Bedroom House,4,3,No,224.1,Unfurnished,Ghana Water,No,Untarred,Yes,No,Yes,No,4.0,10.1,6.1,7050.0
+Oforikrom,Self-Contained,1,1,No,31.9,Furnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,Yes,,3.2,6.5,2050.0
+Asokwa,3-Bedroom House,3,3,No,148.7,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,8.0,7.9,4.6,8090.0
+Ejisu,2-Bedroom Apartment,2,2,No,75.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,6.0,9.9,13.8,2220.0
+Kwadaso,Self-Contained,1,1,No,26.9,Unfurnished,Borehole,Yes,Tarred,No,No,No,Yes,10.0,8.4,5.5,1280.0
+Kentinkrono,Single Room,1,0,Yes,16.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,0.0,3.8,7.5,370.0
+Bomso,3-Bedroom House,3,3,No,97.2,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,No,No,4.0,2.8,7.5,5480.0
+Emena,2-Bedroom Apartment,2,2,No,89.4,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,23.0,6.7,7.8,1780.0
+Kwadaso,Single Room,1,0,Yes,10.5,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,16.0,8.8,5.1,210.0
+Santasi,Single Room,1,0,Yes,16.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,11.0,8.9,5.0,320.0
+Ayeduase,Self-Contained,1,1,No,23.7,Furnished,Ghana Water,Yes,Tarred,No,Yes,No,Yes,11.0,1.0,10.0,2550.0
+Oforikrom,Single Room,1,0,Yes,10.8,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,Yes,No,23.0,3.4,6.6,220.0
+Ahodwo,2-Bedroom Apartment,2,2,No,77.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,Yes,6.0,8.1,2.2,6540.0
+Ayeduase,2-Bedroom Apartment,2,2,No,72.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,10.0,0.6,8.5,3790.0
+Santasi,2-Bedroom Apartment,2,2,No,85.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,6.0,9.4,3.8,4630.0
+Ahodwo,1-Bedroom Apartment,1,1,No,49.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,20.0,7.5,3.5,2530.0
+Tafo,2-Bedroom Apartment,2,2,No,69.1,Semi-furnished,Water tank/Poly tank,No,Tarred,No,No,No,No,6.0,9.6,5.2,3160.0
+Bantama,2-Bedroom Apartment,2,1,No,76.4,Unfurnished,Ghana Water,No,Untarred,No,No,Yes,Yes,7.0,8.0,1.9,2510.0
+Ahodwo,Self-Contained,1,1,No,24.7,Furnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,12.0,6.3,2.8,3250.0
+Atonsu,4+ Bedroom House,6,4,No,281.8,Unfurnished,Borehole,Yes,Tarred,Yes,No,Yes,No,5.0,7.1,4.4,12640.0
+Atonsu,Single Room,1,0,Yes,15.1,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,12.0,8.4,5.5,300.0
+Adiembra,Self-Contained,1,1,No,31.4,Semi-furnished,Borehole,Yes,Tarred,No,No,Yes,No,1.0,8.9,6.4,1420.0
+Kwadaso,1-Bedroom Apartment,1,1,No,38.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,9.0,7.8,4.5,1610.0
+Kentinkrono,Single Room,1,0,Yes,15.0,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,9.0,3.5,9.5,380.0
+Suame,Self-Contained,1,1,No,22.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,16.0,8.8,3.3,650.0
+Danyame,Single Room,1,0,Yes,17.7,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,4.0,6.8,4.1,580.0
+Suame,Self-Contained,1,1,No,31.1,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,10.1,2.4,1000.0
+Kentinkrono,Chamber and Hall,2,0,Yes,38.7,Semi-furnished,Borehole,Yes,Tarred,Yes,No,No,No,14.0,4.4,8.5,1090.0
+Kwadaso,1-Bedroom Apartment,1,1,No,50.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,7.0,8.1,5.5,1450.0
+Ejisu,Self-Contained,1,1,No,18.3,Furnished,Borehole,Yes,Untarred,No,No,No,No,1.0,11.2,15.3,860.0
+Ayeduase,Single Room,1,1,No,15.5,Semi-furnished,Borehole,No,Untarred,No,No,No,Yes,23.0,1.9,9.4,340.0
+Adiembra,4+ Bedroom House,4,4,No,202.6,Semi-furnished,Borehole,No,Untarred,No,No,Yes,No,18.0,9.8,5.6,8290.0
+Asokwa,1-Bedroom Apartment,1,1,No,46.5,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,12.0,7.3,3.9,1940.0
+Emena,2-Bedroom Apartment,2,1,No,81.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,Yes,No,5.0,6.0,9.7,3740.0
+Tafo,Chamber and Hall,2,0,Yes,31.9,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,6.0,10.7,6.0,560.0
+Kotei,1-Bedroom Apartment,1,1,No,35.6,Unfurnished,Ghana Water,No,Untarred,Yes,No,No,No,1.0,2.6,7.9,1490.0
+Kwadaso,Single Room,1,0,Yes,15.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,4.0,7.7,4.7,260.0
+Ayigya,2-Bedroom Apartment,2,1,No,67.6,Unfurnished,Borehole,Yes,Tarred,Yes,No,Yes,Yes,15.0,2.3,6.8,3550.0
+Nhyiaeso,Self-Contained,1,1,No,23.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,Yes,No,No,6.0,7.5,3.7,2960.0
+Kwadaso,Self-Contained,1,1,No,21.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,22.0,8.0,6.8,720.0
+Kwadaso,1-Bedroom Apartment,1,1,No,48.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,10.0,7.8,4.9,1350.0
+Danyame,Single Room,1,1,No,14.2,Furnished,Borehole,Yes,Untarred,Yes,No,No,No,5.0,4.2,3.0,710.0
+Ayigya,Self-Contained,1,1,No,28.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,15.0,2.5,6.8,1070.0
+Atonsu,Single Room,1,0,Yes,18.0,Unfurnished,Borehole,No,Untarred,No,No,No,No,6.0,7.0,5.6,280.0
+Bomso,1-Bedroom Apartment,1,1,No,45.4,Furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,13.0,1.7,7.2,2770.0
+Kwadaso,2-Bedroom Apartment,2,2,No,84.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,3.0,9.5,5.4,3190.0
+Kotei,Chamber and Hall,2,0,Yes,25.4,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,3.0,2.6,8.9,740.0
+Ejisu,Chamber and Hall,2,1,No,32.3,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,11.0,10.9,15.2,570.0
+Bomso,3-Bedroom House,3,2,No,128.7,Unfurnished,Ghana Water,No,Tarred,No,Yes,No,Yes,22.0,1.4,7.0,5510.0
+Tafo,2-Bedroom Apartment,2,2,No,86.1,Semi-furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,6.0,10.2,4.4,2540.0
+Atonsu,1-Bedroom Apartment,1,1,No,52.8,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,1.0,6.9,6.0,2330.0
+Kwadaso,4+ Bedroom House,4,4,No,179.5,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,8.6,5.1,12150.0
+Kentinkrono,2-Bedroom Apartment,2,2,No,83.7,Furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,8.0,4.2,7.8,4530.0
+Atonsu,Self-Contained,1,1,No,27.6,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,4.0,7.8,4.4,1210.0
+Ahodwo,Chamber and Hall,2,0,Yes,36.8,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,,8.0,2.1,1360.0
+Tafo,4+ Bedroom House,4,3,No,271.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,1.0,10.6,6.7,9270.0
+Suame,Self-Contained,1,1,No,26.7,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,12.0,8.5,2.4,750.0
+Atonsu,Single Room,1,0,Yes,15.8,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,7.0,7.5,5.0,290.0
+Kotei,1-Bedroom Apartment,1,1,No,,Unfurnished,Borehole,No,Untarred,No,No,No,Yes,29.0,2.6,9.3,1400.0
+Patasi,2-Bedroom Apartment,2,2,No,85.7,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,9.0,8.7,3.8,3450.0
+Ayigya,Chamber and Hall,2,0,Yes,32.9,Semi-furnished,Borehole,Yes,Tarred,No,Yes,No,Yes,18.0,3.5,7.9,770.0
+Kwadaso,Self-Contained,1,1,No,29.1,Furnished,Borehole,No,Tarred,No,No,No,No,7.0,8.9,5.5,1220.0
+Bantama,Self-Contained,1,1,No,27.3,Furnished,Borehole,Yes,Tarred,No,No,No,No,16.0,8.7,3.0,1070.0
+Ejisu,1-Bedroom Apartment,1,1,No,53.5,Semi-furnished,Ghana Water,No,Tarred,No,No,No,No,8.0,11.2,14.2,1540.0
+Ejisu,4+ Bedroom House,6,6,No,161.4,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,7.0,11.1,13.8,7500.0
+Oforikrom,Single Room,1,0,Yes,11.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,3.1,7.4,230.0
+Ayeduase,2-Bedroom Apartment,2,1,No,55.5,Unfurnished,Borehole,No,Tarred,No,No,Yes,Yes,1.0,0.9,9.0,3230.0
+Adiembra,Chamber and Hall,2,0,Yes,38.1,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,18.0,10.1,5.2,460.0
+Suame,2-Bedroom Apartment,2,2,No,58.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,4.0,8.7,3.5,2000.0
+Bomso,Chamber and Hall,2,0,Yes,36.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,5.0,2.5,6.5,590.0
+Ejisu,1-Bedroom Apartment,1,1,No,38.0,Furnished,Ghana Water,No,Untarred,No,No,No,No,4.0,12.3,14.6,1320.0
+Ayigya,4+ Bedroom House,6,4,No,295.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,12.0,1.8,8.0,11990.0
+Suame,2-Bedroom Apartment,2,2,No,73.8,Semi-furnished,Ghana Water,No,Tarred,No,Yes,Yes,No,3.0,9.0,2.5,2900.0
+Bomso,2-Bedroom Apartment,2,2,No,84.9,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,Yes,1.0,2.0,6.7,4860.0
+Bantama,1-Bedroom Apartment,1,1,No,53.6,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,8.0,7.2,1.3,1580.0
+Ejisu,Self-Contained,1,1,No,19.0,Unfurnished,Ghana Water,No,Untarred,Yes,No,No,Yes,19.0,11.7,13.3,550.0
+Kotei,1-Bedroom Apartment,1,1,No,42.4,Semi-furnished,Ghana Water,No,Tarred,No,No,No,No,6.0,3.2,8.4,1960.0
+Asokwa,1-Bedroom Apartment,1,1,No,51.9,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,20.0,9.3,4.3,1900.0
+Bomso,4+ Bedroom House,6,6,No,206.3,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,14.0,2.7,7.6,12060.0
+Santasi,2-Bedroom Apartment,2,1,No,74.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,3.0,10.2,5.2,4060.0
+Patasi,1-Bedroom Apartment,1,1,No,39.2,Semi-furnished,Ghana Water,No,Tarred,No,No,No,Yes,25.0,8.9,1.9,1260.0
+Patasi,2-Bedroom Apartment,2,2,No,70.0,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,11.0,8.0,2.9,2430.0
+Bantama,Chamber and Hall,2,0,Yes,37.7,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,20.0,9.1,3.0,710.0
+Nhyiaeso,3-Bedroom House,3,2,No,138.7,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,No,9.0,7.8,3.9,10870.0
+Santasi,Self-Contained,1,1,No,27.0,Furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,3.0,9.7,4.7,1710.0
+Bomso,2-Bedroom Apartment,2,1,No,60.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,No,6.0,1.9,6.8,3460.0
+Patasi,Self-Contained,1,1,No,24.6,Furnished,Borehole,Yes,Tarred,No,No,No,No,4.0,8.6,3.7,1490.0
+Ejisu,Self-Contained,1,1,No,26.1,Unfurnished,Water tank/Poly tank,No,Tarred,No,No,No,No,9.0,10.0,14.0,890.0
+Kotei,Single Room,1,0,Yes,15.0,Semi-furnished,Borehole,No,Tarred,No,No,No,Yes,11.0,1.5,8.2,450.0
+Adiembra,4+ Bedroom House,4,3,No,268.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,13.0,9.3,5.5,8730.0
+Kwadaso,Single Room,1,0,Yes,16.0,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,12.0,8.5,5.1,330.0
+Oforikrom,4+ Bedroom House,5,4,No,178.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,1.0,3.5,6.6,9130.0
+Patasi,1-Bedroom Apartment,1,1,No,52.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,18.0,6.9,3.3,1430.0
+Kotei,3-Bedroom House,3,3,No,143.5,Furnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,16.0,1.5,8.6,8100.0
+Ahodwo,Chamber and Hall,2,1,No,25.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,7.0,7.0,3.5,1170.0
+Bantama,Single Room,1,0,Yes,12.7,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,8.0,8.7,3.1,250.0
+Kwadaso,Single Room,1,1,No,13.6,Furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,4.0,8.4,5.4,360.0
+Ayeduase,2-Bedroom Apartment,2,2,No,69.4,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,,1.4,9.4,3420.0
+Asokwa,Self-Contained,1,1,No,22.0,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,No,11.0,8.3,4.1,1260.0
+Danyame,Single Room,1,0,Yes,11.0,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,5.6,4.4,410.0
+Suame,Single Room,1,1,No,13.8,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,No,No,7.0,7.4,3.8,240.0
+Kwadaso,Chamber and Hall,2,0,Yes,27.9,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,8.6,3.9,710.0
+Bomso,3-Bedroom House,3,3,No,124.0,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,11.0,0.9,7.9,4490.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,43.4,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,5.0,3.8,7.4,2620.0
+Ayeduase,2-Bedroom Apartment,2,1,No,71.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,3.0,1.4,8.8,2890.0
+Bantama,3-Bedroom House,3,3,No,97.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,2.0,8.6,2.9,4740.0
+Ayigya,4+ Bedroom House,6,6,No,234.3,Unfurnished,Borehole,No,Untarred,No,No,No,No,7.0,2.3,7.7,9200.0
+Bomso,4+ Bedroom House,6,5,No,318.6,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,10.0,2.2,7.4,13030.0
+Asokwa,Self-Contained,1,1,No,29.6,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,7.2,5.0,1630.0
+Ejisu,Single Room,1,0,Yes,11.7,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,8.0,11.6,13.7,200.0
+Emena,Single Room,1,0,Yes,14.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,Yes,5.0,6.6,8.3,290.0
+Oforikrom,3-Bedroom House,3,3,No,131.3,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,Yes,1.0,3.9,5.9,6460.0
+Kotei,Chamber and Hall,2,1,No,37.4,Unfurnished,Ghana Water,No,Untarred,No,No,No,No,6.0,2.5,8.1,790.0
+Bantama,4+ Bedroom House,5,5,No,209.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,13.0,7.6,2.6,8450.0
+Kotei,3-Bedroom House,3,3,No,99.5,Unfurnished,Ghana Water,No,Untarred,Yes,No,No,Yes,3.0,2.4,8.9,5640.0
+Santasi,Self-Contained,1,1,No,27.0,Unfurnished,Borehole,Yes,Tarred,No,Yes,Yes,No,9.0,8.4,5.0,1560.0
+Bantama,4+ Bedroom House,4,3,No,153.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,9.0,8.4,2.6,6630.0
+Kwadaso,1-Bedroom Apartment,1,1,No,43.3,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,13.0,7.4,5.0,1490.0
+Oforikrom,1-Bedroom Apartment,1,1,No,38.3,Furnished,Ghana Water,No,Tarred,Yes,No,No,No,4.0,3.2,6.7,2310.0
+Bomso,Chamber and Hall,2,0,Yes,37.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,4.0,1.8,7.0,820.0
+Ahodwo,Single Room,1,0,Yes,10.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,0.0,6.8,3.5,520.0
+Atonsu,4+ Bedroom House,5,5,No,230.4,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,9.0,7.4,5.7,11180.0
+Patasi,2-Bedroom Apartment,2,2,No,61.5,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,,8.1,3.3,2280.0
+Ayeduase,Self-Contained,1,1,No,22.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,4.0,0.3,8.5,1610.0
+Patasi,3-Bedroom House,3,3,No,139.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,13.0,9.2,3.7,6500.0
+Adiembra,Self-Contained,1,1,No,29.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,3.0,8.4,5.4,1080.0
+Atonsu,4+ Bedroom House,6,6,No,218.4,Unfurnished,Ghana Water,No,Untarred,Yes,No,Yes,No,22.0,8.1,5.2,8220.0
+Bantama,2-Bedroom Apartment,2,2,No,71.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,7.7,2.9,2460.0
+Ahodwo,Chamber and Hall,2,0,Yes,34.2,Furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,Yes,7.0,7.3,3.9,2990.0
+Kentinkrono,3-Bedroom House,3,3,No,107.6,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,7.0,5.3,8.3,5430.0
+Oforikrom,Single Room,1,0,Yes,15.6,Unfurnished,Borehole,No,Untarred,No,No,No,No,5.0,2.8,5.9,250.0
+Santasi,1-Bedroom Apartment,1,1,No,54.1,Unfurnished,Borehole,Yes,Untarred,Yes,No,No,No,4.0,8.4,5.1,2110.0
+Nhyiaeso,3-Bedroom House,3,2,No,133.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,Yes,No,12.0,7.2,3.7,11460.0
+Suame,Chamber and Hall,2,0,Yes,36.9,Semi-furnished,Borehole,Yes,Tarred,No,No,No,Yes,4.0,8.9,3.5,740.0
+Nhyiaeso,4+ Bedroom House,6,5,No,278.8,Semi-furnished,Borehole,Yes,Tarred,Yes,Yes,Yes,Yes,11.0,7.3,3.1,48310.0
+Kentinkrono,Single Room,1,1,No,12.6,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,8.0,5.2,8.0,340.0
+Ejisu,2-Bedroom Apartment,2,2,No,78.2,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,Yes,5.0,11.8,13.2,2930.0
+Emena,2-Bedroom Apartment,2,2,No,86.7,Semi-furnished,Ghana Water,Yes,Untarred,Yes,Yes,No,No,3.0,6.6,7.4,3950.0
+Suame,Chamber and Hall,2,1,No,30.1,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,9.0,9.4,2.9,470.0
+Kotei,Chamber and Hall,2,0,Yes,37.5,Unfurnished,Borehole,Yes,Tarred,No,Yes,No,No,3.0,3.0,7.9,800.0
+Oforikrom,1-Bedroom Apartment,1,1,No,43.2,Semi-furnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,9.0,4.1,7.0,1950.0
+Santasi,1-Bedroom Apartment,1,1,No,,Furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,7.0,8.5,4.5,2610.0
+Kotei,Single Room,1,1,No,14.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,13.0,2.7,8.4,350.0
+Adiembra,4+ Bedroom House,4,4,No,240.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,No,4.0,9.4,6.6,11540.0
+Atonsu,1-Bedroom Apartment,1,1,No,43.0,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,0.0,6.5,4.3,1940.0
+Ahodwo,Single Room,1,0,Yes,14.8,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,4.0,7.2,3.3,490.0
+Bomso,Self-Contained,1,1,No,19.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,5.0,1.4,6.4,1220.0
+Ayeduase,Single Room,1,0,Yes,13.8,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,28.0,1.4,9.7,340.0
+Santasi,1-Bedroom Apartment,1,1,No,36.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,21.0,9.0,5.1,1340.0
+Kwadaso,Chamber and Hall,2,0,Yes,26.8,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,13.0,7.1,4.6,650.0
+Asokwa,Single Room,1,0,Yes,15.9,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,12.0,8.8,4.5,270.0
+Kentinkrono,Self-Contained,1,1,No,20.2,Furnished,Borehole,Yes,Untarred,No,No,No,Yes,14.0,4.0,8.0,1480.0
+Bantama,Self-Contained,1,1,No,27.7,Unfurnished,Borehole,No,Tarred,No,No,No,No,16.0,8.9,3.3,810.0
+Ejisu,1-Bedroom Apartment,1,1,No,45.3,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,3.0,11.0,13.3,1300.0
+Kotei,Chamber and Hall,2,0,Yes,39.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,2.1,7.8,800.0
+Bantama,Single Room,1,1,No,14.2,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,11.0,8.1,2.1,290.0
+Ejisu,1-Bedroom Apartment,1,1,No,43.3,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,12.5,14.1,1690.0
+Kotei,Self-Contained,1,1,No,18.2,Semi-furnished,Borehole,Yes,Tarred,Yes,No,Yes,Yes,20.0,3.2,8.3,1400.0
+Bomso,Chamber and Hall,2,0,Yes,33.1,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,7.0,2.1,6.9,520.0
+Santasi,3-Bedroom House,3,3,No,111.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,3.0,9.3,3.6,6730.0
+Bantama,Self-Contained,1,1,No,26.2,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,15.0,9.1,2.4,1010.0
+Santasi,1-Bedroom Apartment,1,1,No,52.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,0.0,8.8,4.9,2580.0
+Tafo,Chamber and Hall,2,0,Yes,30.9,Semi-furnished,Borehole,No,Untarred,No,Yes,No,No,5.0,10.1,6.0,490.0
+Atonsu,Self-Contained,1,1,No,21.7,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,7.5,3.8,770.0
+Santasi,Self-Contained,1,1,No,31.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,9.2,5.7,1260.0
+Ayeduase,Chamber and Hall,2,0,Yes,37.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,13.0,0.3,9.2,1130.0
+Emena,Self-Contained,1,1,No,27.4,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,9.0,6.1,9.0,690.0
+Nhyiaeso,Self-Contained,1,1,No,26.9,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,13.0,8.2,3.0,1820.0
+Ayeduase,Chamber and Hall,2,0,Yes,35.3,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,1.2,8.6,1210.0
+Asokwa,Self-Contained,1,1,No,28.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,12.0,8.3,4.7,1040.0
+Ahodwo,Self-Contained,1,1,No,31.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,Yes,No,No,14.0,7.4,4.0,2550.0
+Bantama,1-Bedroom Apartment,1,1,No,42.0,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,4.0,8.9,1.7,1520.0
+Ayeduase,Self-Contained,1,1,No,28.1,Semi-furnished,Borehole,Yes,Untarred,No,No,No,Yes,13.0,0.9,8.0,1450.0
+Kotei,4+ Bedroom House,4,3,No,211.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,,3.2,7.9,12140.0
+Danyame,Single Room,1,0,Yes,14.0,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,6.5,3.7,400.0
+Adiembra,Single Room,1,0,Yes,17.2,Unfurnished,Ghana Water,No,Tarred,No,No,No,No,4.0,9.4,6.3,290.0
+Ejisu,2-Bedroom Apartment,2,2,No,73.5,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,Yes,No,5.0,11.4,13.8,3350.0
+Kwadaso,3-Bedroom House,3,3,No,147.3,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,6.0,8.3,5.9,7910.0
+Oforikrom,1-Bedroom Apartment,1,1,No,44.8,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,No,No,4.0,2.9,6.8,1780.0
+Atonsu,2-Bedroom Apartment,2,2,No,76.8,Furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,6.0,7.4,5.0,4610.0
+Kotei,2-Bedroom Apartment,2,1,No,85.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,10.0,1.5,8.8,3450.0
+Santasi,1-Bedroom Apartment,1,1,No,48.0,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,4.0,9.1,4.0,2270.0
+Santasi,Chamber and Hall,2,0,Yes,33.2,Furnished,Borehole,Yes,Tarred,No,No,No,No,14.0,9.4,5.0,950.0
+Ayeduase,Self-Contained,1,1,No,31.8,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,8.0,1.7,8.9,1970.0
+Kwadaso,Self-Contained,1,1,No,21.6,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,2.0,9.1,4.8,920.0
+Ayeduase,Self-Contained,1,1,No,19.2,Unfurnished,Ghana Water,No,Untarred,No,No,No,Yes,3.0,1.1,9.2,1100.0
+Bomso,1-Bedroom Apartment,1,1,No,42.3,Unfurnished,Borehole,Yes,Untarred,Yes,No,Yes,Yes,4.0,1.7,6.2,2490.0
+Bomso,Single Room,1,1,No,17.6,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,3.0,2.3,7.0,330.0
+Bantama,2-Bedroom Apartment,2,2,No,79.2,Unfurnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,6.0,6.7,2.5,3460.0
+Atonsu,Self-Contained,1,1,No,21.1,Furnished,Ghana Water,No,Untarred,No,Yes,No,No,5.0,7.3,5.3,1010.0
+Bomso,Chamber and Hall,2,0,Yes,,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,5.0,1.8,7.2,600.0
+Kentinkrono,Self-Contained,1,1,No,30.0,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,4.0,4.7,8.5,1170.0
+Asokwa,3-Bedroom House,3,2,No,106.5,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,7.8,4.9,5940.0
+Bantama,Chamber and Hall,2,1,No,38.3,Unfurnished,Ghana Water,No,Tarred,No,Yes,No,No,10.0,8.1,3.1,620.0
+Patasi,Self-Contained,1,1,No,28.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,14.0,8.4,2.8,770.0
+Ayeduase,3-Bedroom House,3,3,No,112.0,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,5.0,1.5,8.6,4920.0
+Ayigya,1-Bedroom Apartment,1,1,No,43.9,Furnished,Ghana Water,No,Untarred,No,No,No,No,16.0,3.1,7.1,2170.0
+Kwadaso,2-Bedroom Apartment,2,1,No,61.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,6.0,8.0,6.3,2280.0
+Ayeduase,4+ Bedroom House,4,3,No,167.9,Semi-furnished,Ghana Water,Yes,Untarred,No,Yes,No,No,3.0,0.6,9.5,10290.0
+Bomso,1-Bedroom Apartment,1,1,No,40.1,Unfurnished,Borehole,Yes,Tarred,No,Yes,No,No,7.0,1.6,6.8,2250.0
+Ayeduase,3-Bedroom House,3,3,No,94.0,Semi-furnished,Borehole,Yes,Untarred,No,Yes,No,No,10.0,0.4,9.1,6420.0
+Nhyiaeso,3-Bedroom House,3,3,No,92.6,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,21.0,7.8,3.9,9620.0
+Ayigya,Self-Contained,1,1,No,24.1,Semi-furnished,Ghana Water,No,Tarred,No,No,No,No,4.0,1.4,7.7,1260.0
+Bomso,Self-Contained,1,1,No,29.7,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,3.2,6.8,1510.0
+Tafo,Self-Contained,1,1,No,23.1,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,7.0,9.8,5.4,630.0
+Adiembra,Single Room,1,0,Yes,10.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,3.0,9.4,5.9,280.0
+Danyame,Self-Contained,1,1,No,25.3,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,No,No,10.0,6.7,2.5,1810.0
+Ahodwo,2-Bedroom Apartment,2,2,No,62.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,Yes,No,7.0,7.8,4.0,6190.0
+Oforikrom,Chamber and Hall,2,1,No,28.9,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,7.0,3.7,7.0,1080.0
+Asokwa,2-Bedroom Apartment,2,1,No,75.3,Furnished,Ghana Water,Yes,Untarred,Yes,Yes,Yes,No,9.0,8.4,4.0,4960.0
+Ayeduase,4+ Bedroom House,4,4,No,281.7,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,Yes,7.0,1.1,8.4,16090.0
+Kwadaso,1-Bedroom Apartment,1,1,No,39.5,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,9.0,7.9,5.5,1390.0
+Nhyiaeso,Single Room,1,0,Yes,17.1,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,2.0,8.0,3.5,860.0
+Kotei,1-Bedroom Apartment,1,1,No,54.4,Furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,10.0,2.5,9.9,3550.0
+Santasi,4+ Bedroom House,6,6,No,279.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,17.0,9.0,4.5,18530.0
+Kwadaso,Chamber and Hall,2,0,Yes,,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,13.0,8.2,6.0,530.0
+Kwadaso,Single Room,1,0,Yes,13.3,Semi-furnished,Borehole,No,Tarred,No,No,No,No,8.0,8.8,6.3,240.0
+Santasi,Chamber and Hall,2,0,Yes,32.7,Furnished,Ghana Water,Yes,Tarred,No,No,No,No,10.0,9.1,5.2,1110.0
+Oforikrom,3-Bedroom House,3,3,No,92.3,Furnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,8.0,3.3,6.0,6620.0
+Ayeduase,Self-Contained,1,1,No,26.2,Furnished,Borehole,Yes,Tarred,Yes,No,No,No,3.0,1.8,8.3,2020.0
+Patasi,1-Bedroom Apartment,1,1,No,48.5,Semi-furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,9.0,7.0,3.5,2180.0
+Oforikrom,Self-Contained,1,1,No,28.3,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,4.0,3.8,6.1,1560.0
+Bantama,Chamber and Hall,2,1,No,27.5,Semi-furnished,Borehole,Yes,Untarred,No,No,Yes,Yes,8.0,8.9,2.8,630.0
+Bomso,1-Bedroom Apartment,1,1,No,54.2,Unfurnished,Borehole,Yes,Tarred,Yes,No,No,No,12.0,1.8,6.7,2210.0
+Ahodwo,Single Room,1,1,No,16.9,Unfurnished,Ghana Water,Yes,Untarred,Yes,Yes,No,No,4.0,7.3,2.4,840.0
+Suame,1-Bedroom Apartment,1,1,No,36.2,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,6.0,8.8,3.2,1150.0
+Asokwa,Self-Contained,1,1,No,18.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,13.0,8.4,4.1,860.0
+Patasi,Single Room,1,1,No,10.5,Unfurnished,Borehole,Yes,Tarred,No,No,No,Yes,10.0,8.2,3.6,260.0
+Ayeduase,Self-Contained,1,1,No,29.2,Semi-furnished,Ghana Water,No,Tarred,No,Yes,No,No,5.0,0.8,9.3,1930.0
+Kwadaso,Self-Contained,1,1,No,22.7,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,Yes,10.0,8.4,6.1,780.0
+Kotei,2-Bedroom Apartment,2,1,No,,Semi-furnished,Ghana Water,Yes,Untarred,Yes,No,Yes,Yes,13.0,2.5,7.2,3710.0
+Kotei,Single Room,1,0,Yes,13.2,Unfurnished,Borehole,No,Tarred,No,No,No,No,2.0,2.1,8.4,310.0
+Ayigya,2-Bedroom Apartment,2,1,No,89.8,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,Yes,8.0,2.8,8.1,2820.0
+Ayeduase,2-Bedroom Apartment,2,2,No,60.4,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,11.0,0.3,9.1,2680.0
+Kentinkrono,2-Bedroom Apartment,2,2,No,84.3,Furnished,Water tank/Poly tank,No,Untarred,No,No,No,No,9.0,4.7,7.4,4900.0
+Kotei,Self-Contained,1,1,No,26.1,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,10.0,2.0,8.3,1680.0
+Ayeduase,1-Bedroom Apartment,1,1,No,51.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,5.0,1.1,9.7,2440.0
+Bomso,Self-Contained,1,1,No,26.0,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,1.9,8.1,1360.0
+Ayeduase,1-Bedroom Apartment,1,1,No,46.2,Furnished,Ghana Water,No,Tarred,Yes,No,No,No,16.0,1.3,8.4,3070.0
+Asokwa,1-Bedroom Apartment,1,1,No,50.0,Semi-furnished,Borehole,Yes,Tarred,No,Yes,No,No,13.0,7.9,4.6,2380.0
+Santasi,Chamber and Hall,2,0,Yes,29.5,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,16.0,10.1,5.0,710.0
+Patasi,Chamber and Hall,2,0,Yes,32.6,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,7.0,8.1,2.8,650.0
+Bantama,3-Bedroom House,3,2,No,106.9,Unfurnished,Borehole,Yes,Untarred,Yes,No,Yes,No,,7.7,3.0,4060.0
+Emena,Chamber and Hall,2,0,Yes,26.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,15.0,6.4,10.1,580.0
+Kotei,Chamber and Hall,2,0,Yes,36.4,Semi-furnished,Borehole,Yes,Tarred,No,No,No,No,4.0,2.5,8.0,960.0
+Asokwa,Single Room,1,1,No,11.8,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,5.0,7.7,4.2,320.0
+Oforikrom,Chamber and Hall,2,0,Yes,30.3,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,No,Yes,12.0,2.9,6.2,670.0
+Asokwa,4+ Bedroom House,6,4,No,291.0,Unfurnished,Ghana Water,Yes,Tarred,No,Yes,Yes,No,9.0,7.7,4.4,15870.0
+Ejisu,4+ Bedroom House,6,5,No,191.0,Semi-furnished,Ghana Water,Yes,Tarred,No,No,Yes,No,3.0,11.0,12.8,10640.0
+Kwadaso,2-Bedroom Apartment,2,1,No,64.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,,8.2,6.7,2620.0
+Santasi,Chamber and Hall,2,1,No,34.8,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,Yes,No,No,6.0,9.1,4.8,1330.0
+Ayeduase,3-Bedroom House,3,3,No,118.8,Furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,Yes,9.0,1.7,9.2,11160.0
+Kentinkrono,1-Bedroom Apartment,1,1,No,52.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,11.0,4.5,7.3,2170.0
+Oforikrom,Chamber and Hall,2,0,Yes,31.4,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,12.0,3.5,6.8,770.0
+Kentinkrono,Single Room,1,0,Yes,13.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,11.0,3.6,6.8,320.0
+Nhyiaeso,2-Bedroom Apartment,2,2,No,84.5,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,Yes,Yes,No,3.0,8.2,3.5,13320.0
+Patasi,2-Bedroom Apartment,2,1,No,89.6,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,Yes,No,8.0,7.5,2.6,4460.0
+Bomso,1-Bedroom Apartment,1,1,No,46.1,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,Yes,4.0,1.4,7.2,2690.0
+Oforikrom,2-Bedroom Apartment,2,2,No,90.0,Unfurnished,Borehole,No,Untarred,Yes,No,Yes,Yes,5.0,3.3,6.2,3130.0
+Santasi,3-Bedroom House,3,3,No,121.9,Unfurnished,Water tank/Poly tank,No,Tarred,No,No,Yes,No,1.0,9.5,5.2,7600.0
+Emena,Single Room,1,0,Yes,13.4,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,9.0,5.9,9.1,190.0
+Kwadaso,3-Bedroom House,3,2,No,145.1,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,7.0,8.8,5.8,5030.0
+Adiembra,Single Room,1,0,Yes,13.3,Unfurnished,Borehole,Yes,Untarred,No,No,No,Yes,13.0,11.5,5.8,300.0
+Kotei,1-Bedroom Apartment,1,1,No,40.1,Unfurnished,Borehole,Yes,Untarred,Yes,Yes,No,Yes,14.0,3.1,7.5,1890.0
+Kwadaso,Self-Contained,1,1,No,28.8,Semi-furnished,Borehole,Yes,Untarred,No,No,No,No,10.0,8.8,5.8,1000.0
+Asokwa,Self-Contained,1,1,No,30.9,Semi-furnished,Ghana Water,Yes,Tarred,Yes,Yes,No,No,3.0,7.6,4.7,2020.0
+Santasi,1-Bedroom Apartment,1,1,No,49.4,Unfurnished,Water tank/Poly tank,No,Untarred,No,No,No,No,,8.7,4.4,1920.0
+Bantama,2-Bedroom Apartment,2,1,No,78.3,Unfurnished,Ghana Water,Yes,Untarred,Yes,No,Yes,No,8.0,9.3,2.7,2860.0
+Oforikrom,1-Bedroom Apartment,1,1,No,49.9,Furnished,Ghana Water,No,Tarred,No,No,No,Yes,3.0,5.2,7.1,2420.0
+Danyame,Self-Contained,1,1,No,23.4,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,Yes,No,No,2.0,6.0,3.4,2390.0
+Santasi,3-Bedroom House,3,3,No,123.7,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,No,No,No,3.0,9.6,5.2,7210.0
+Ayigya,Chamber and Hall,2,0,Yes,32.9,Furnished,Borehole,Yes,Tarred,No,No,No,No,13.0,1.7,7.3,950.0
+Kotei,Self-Contained,1,1,No,25.9,Furnished,Ghana Water,Yes,Untarred,No,Yes,Yes,No,9.0,1.3,8.8,1810.0
+Emena,Chamber and Hall,2,0,Yes,33.1,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,7.0,6.2,8.3,700.0
+Danyame,Self-Contained,1,1,No,22.3,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,5.0,5.9,2.9,1610.0
+Ahodwo,1-Bedroom Apartment,1,1,No,53.0,Semi-furnished,Water tank/Poly tank,Yes,Untarred,No,Yes,No,Yes,3.0,7.6,2.9,5490.0
+Kentinkrono,Self-Contained,1,1,No,20.3,Unfurnished,Borehole,Yes,Tarred,No,No,No,No,5.0,3.8,8.3,1010.0
+Kwadaso,Single Room,1,0,Yes,11.0,Unfurnished,Borehole,Yes,Untarred,No,No,No,No,11.0,8.5,5.0,190.0
+Bomso,3-Bedroom House,3,3,No,107.6,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,No,Yes,4.0,2.1,7.0,5980.0
+Bomso,Chamber and Hall,2,0,Yes,29.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,16.0,2.9,6.6,700.0
+Santasi,Single Room,1,0,Yes,15.8,Furnished,Borehole,Yes,Tarred,No,No,No,No,10.0,8.1,3.9,570.0
+Danyame,Single Room,1,0,Yes,15.2,Furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,8.0,6.2,4.5,690.0
+Danyame,3-Bedroom House,3,2,No,155.4,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,Yes,No,9.0,7.7,3.5,15340.0
+Asokwa,3-Bedroom House,3,2,No,131.4,Semi-furnished,Water tank/Poly tank,Yes,Tarred,No,No,Yes,No,8.0,8.3,4.0,7380.0
+Asokwa,2-Bedroom Apartment,2,2,No,56.3,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,Yes,7.0,8.1,4.2,3560.0
+Patasi,Single Room,1,0,Yes,16.8,Unfurnished,Ghana Water,No,Tarred,Yes,No,No,Yes,5.0,8.2,2.7,290.0
+Kwadaso,Chamber and Hall,2,0,Yes,33.8,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,No,8.0,7.2,5.1,650.0
+Kwadaso,Chamber and Hall,2,0,Yes,34.1,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,0.0,7.3,5.9,530.0
+Tafo,Chamber and Hall,2,0,Yes,37.0,Unfurnished,Ghana Water,Yes,Untarred,No,No,No,Yes,4.0,10.8,5.8,460.0
+Tafo,Chamber and Hall,2,1,No,27.1,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,6.0,10.8,5.5,550.0
+Bantama,Single Room,1,0,Yes,17.4,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,No,15.0,8.7,2.5,290.0
+Atonsu,Self-Contained,1,1,No,27.2,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,3.0,8.4,3.9,1060.0
+Asokwa,Self-Contained,1,1,No,31.3,Semi-furnished,Water tank/Poly tank,No,Tarred,No,No,No,Yes,16.0,7.6,4.7,1330.0
+Kwadaso,Single Room,1,0,Yes,17.5,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,No,8.0,8.3,6.1,350.0
+Kotei,1-Bedroom Apartment,1,1,No,41.3,Semi-furnished,Borehole,Yes,Tarred,Yes,Yes,Yes,No,4.0,2.4,8.6,3290.0
+Nhyiaeso,Single Room,1,0,Yes,17.9,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,4.0,7.6,3.5,560.0
+Ahodwo,Single Room,1,1,No,13.8,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,Yes,9.0,7.1,2.6,550.0
+Atonsu,1-Bedroom Apartment,1,1,No,49.4,Semi-furnished,Ghana Water,No,Untarred,No,No,No,No,7.0,7.0,6.2,1490.0
+Kwadaso,2-Bedroom Apartment,2,2,No,66.8,Semi-furnished,Ghana Water,No,Tarred,No,No,Yes,Yes,2.0,8.1,5.4,2940.0
+Nhyiaeso,Self-Contained,1,1,No,25.8,Unfurnished,Borehole,No,Untarred,No,Yes,No,No,5.0,6.9,3.4,2610.0
+Santasi,3-Bedroom House,3,2,No,102.6,Semi-furnished,Borehole,Yes,Tarred,No,No,Yes,No,16.0,8.6,6.7,7180.0
+Bomso,Single Room,1,0,Yes,16.5,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,7.0,1.9,5.7,460.0
+Emena,Single Room,1,1,No,12.8,Semi-furnished,Ghana Water,No,Untarred,Yes,Yes,No,No,14.0,6.4,10.6,220.0
+Ahodwo,Chamber and Hall,2,0,Yes,35.8,Unfurnished,Ghana Water,Yes,Tarred,Yes,No,No,No,17.0,6.2,1.5,1390.0
+Ayigya,Self-Contained,1,1,No,18.2,Semi-furnished,Borehole,Yes,Untarred,Yes,No,No,Yes,8.0,1.8,7.2,1310.0
+Ejisu,1-Bedroom Apartment,1,1,No,43.4,Unfurnished,Water tank/Poly tank,Yes,Untarred,Yes,No,No,No,9.0,11.3,13.1,1570.0
+Bomso,1-Bedroom Apartment,1,1,No,48.5,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,6.0,2.7,6.9,1760.0
+Ayigya,1-Bedroom Apartment,1,1,No,49.7,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,4.0,2.1,7.3,2090.0
+Kwadaso,Self-Contained,1,1,No,20.8,Unfurnished,Water tank/Poly tank,Yes,Tarred,Yes,No,No,No,8.0,7.3,5.3,1110.0
+Tafo,2-Bedroom Apartment,2,1,No,85.3,Furnished,Ghana Water,Yes,Untarred,No,No,Yes,No,17.0,10.5,6.4,2460.0
+Nhyiaeso,Self-Contained,1,1,No,23.9,Unfurnished,Ghana Water,Yes,Tarred,No,No,No,No,14.0,7.5,3.4,1790.0
+Bantama,3-Bedroom House,3,2,No,127.8,Semi-furnished,Ghana Water,Yes,Tarred,No,No,No,Yes,8.0,8.8,2.4,6350.0
+Emena,Self-Contained,1,1,No,22.5,Unfurnished,Ghana Water,Yes,Untarred,No,Yes,No,No,4.0,8.1,9.7,900.0
+Atonsu,3-Bedroom House,3,3,No,91.9,Unfurnished,Borehole,Yes,Tarred,No,No,Yes,No,2.0,7.5,5.3,5250.0
+Santasi,3-Bedroom House,3,3,No,144.5,Unfurnished,Water tank/Poly tank,No,Untarred,No,No,Yes,Yes,8.0,8.6,5.4,6640.0
+Danyame,2-Bedroom Apartment,2,2,No,87.9,Semi-furnished,Water tank/Poly tank,Yes,Untarred,Yes,No,Yes,No,9.0,7.4,3.0,6880.0
+Tafo,2-Bedroom Apartment,2,2,No,73.5,Unfurnished,Ghana Water,Yes,Untarred,No,No,Yes,No,10.0,10.1,5.3,2230.0
+Ahodwo,Single Room,1,0,Yes,14.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,4.0,6.9,3.7,500.0
+Kwadaso,Self-Contained,1,1,No,20.1,Unfurnished,Water tank/Poly tank,Yes,Untarred,No,No,Yes,No,10.0,8.0,5.4,780.0
+Tafo,1-Bedroom Apartment,1,1,No,54.0,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,1.0,8.9,5.0,1840.0
+Santasi,4+ Bedroom House,6,6,No,,Unfurnished,Ghana Water,Yes,Tarred,No,No,Yes,No,7.0,9.5,5.7,16640.0
+Kotei,Self-Contained,1,1,No,27.0,Furnished,Borehole,Yes,Untarred,No,Yes,No,Yes,4.0,1.9,8.8,2020.0
+Asokwa,4+ Bedroom House,4,3,No,162.4,Semi-furnished,Ghana Water,Yes,Untarred,No,No,No,Yes,18.0,8.4,4.3,11780.0
+Ayeduase,1-Bedroom Apartment,1,1,No,42.9,Furnished,Ghana Water,Yes,Untarred,No,No,No,No,2.0,1.4,9.0,3040.0
+Bantama,2-Bedroom Apartment,2,2,No,72.9,Unfurnished,Borehole,Yes,Untarred,No,No,Yes,No,8.0,9.0,3.0,2570.0
+Kentinkrono,Chamber and Hall,2,0,Yes,,Furnished,Ghana Water,Yes,Tarred,No,Yes,No,No,7.0,3.9,7.9,1220.0
+Ahodwo,Single Room,1,0,Yes,13.6,Unfurnished,Water tank/Poly tank,Yes,Tarred,No,No,No,No,10.0,7.0,3.2,450.0
